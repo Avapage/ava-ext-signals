@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T21:30:18.887Z",
+ "generated_utc": "2026-11-20T21:35:27.453Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
@@ -2419,7 +2419,32 @@
    },
    {
     "day": "2026-11-20",
-    "t": 1795210218887,
+    "t": 1795210287401,
+    "equity": 1007.4
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795210347416,
+    "equity": 1007.4
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795210407430,
+    "equity": 1007.4
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795210467437,
+    "equity": 1007.4
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795210527453,
+    "equity": 1007.4
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795210527453,
     "equity": 1007.4
    }
   ]
