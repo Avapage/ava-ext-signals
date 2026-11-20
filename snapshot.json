@@ -1,0 +1,89 @@
+{
+ "model": "CRYPTO MOMENTUM v1.0 \u2014 EXTERNAL \u00b7 FROZEN RULES",
+ "notice": "NOT FINANCIAL ADVICE",
+ "generated_utc": "2026-11-20T05:51:56.854447+00:00",
+ "rule_sha256": "67cb7e90c60c4d3a792c68158630c0c9214d6211b5bc84c35bf43e31f020f742",
+ "latest": {
+  "kind": "pilot",
+  "cutoff_utc": "2026-11-20T04:00:00+00:00",
+  "observed_utc": "2026-11-20T05:09:11.228817+00:00",
+  "longs": [],
+  "top": [
+   {
+    "symbol": "GTCUSDT",
+    "score": 44.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "TRXUSDT",
+    "score": 35.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "INJUSDT",
+    "score": 27.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "SOLUSDT",
+    "score": 22.9,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "TAOUSDT",
+    "score": 20.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "BNBUSDT",
+    "score": 19.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "LINKUSDT",
+    "score": 19.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "BTCUSDT",
+    "score": 18.1,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   }
+  ],
+  "pairs": 40
+ },
+ "forward": {
+  "scheduled_days": 0,
+  "first_scheduled_cutoff": null,
+  "pilots": 2,
+  "failed_records": 1
+ },
+ "paper": {
+  "status": "AWAITING FIRST SCHEDULED OBSERVATION",
+  "nav": 1.0,
+  "return_pct": 0.0,
+  "positions": [],
+  "closed": [],
+  "fills": 0,
+  "writeoffs": 0,
+  "mark_utc": null
+ },
+ "backtest": {
+  "period": "2022-01-01 \u2192 2026-11-01 \u00b7 POINT-IN-TIME TOP-40 \u00b7 NEXT-OPEN FILLS",
+  "portfolio_pct": -16.48,
+  "ex_best_pct": -20.45,
+  "btc_hold_pct": 65.7,
+  "btc_ema200_pct": 126.71,
+  "median_traded_pair_pct": -7.96,
+  "timing_test": "NO TIMING SKILL \u2014 6/177 COINS P<0.05 (CHANCE \u2248 9) \u00b7 MEDIAN PERCENTILE 42",
+  "source": "INDEPENDENT AUDIT \u00b7 2026-11-20 \u00b7 REPLAY-VERIFIED TO 1E-14"
+ }
+}
