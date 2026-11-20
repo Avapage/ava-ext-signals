@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T08:59:26.352Z",
+ "generated_utc": "2026-11-20T09:30:15.889Z",
  "rules": "AUTO BOT · 4H MODEL WINDOWS + 1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
@@ -28,11 +28,11 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 1000.37,
-   "return_pct": 0.04,
+   "equity": 1002.72,
+   "return_pct": 0.27,
    "margin_used": 66.67,
    "free": 933.13,
-   "upnl": 0.57
+   "upnl": 2.92
   },
   "positions": [
    {
@@ -44,12 +44,12 @@
     "sl": 0.1807,
     "tp": 0.4117,
     "liq": 0.16570017,
-    "mark": 0.2474,
+    "mark": 0.2503,
     "qty": 810.7012565869477,
-    "notional": 200.57,
+    "notional": 202.92,
     "margin": 66.67,
-    "upnl": 0.57,
-    "return_pct": 0.85,
+    "upnl": 2.92,
+    "return_pct": 4.38,
     "stale": false
    }
   ],
