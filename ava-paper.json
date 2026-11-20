@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T15:30:24.709Z",
+ "generated_utc": "2026-11-20T15:35:38.067Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
@@ -28,11 +28,11 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 1000.72,
-   "return_pct": 0.07,
+   "equity": 1000.96,
+   "return_pct": 0.1,
    "margin_used": 65.8,
    "free": 934.04,
-   "upnl": 0.88
+   "upnl": 1.12
   },
   "positions": [
    {
@@ -44,12 +44,12 @@
     "sl": 0.1807,
     "tp": 0.4117,
     "liq": 0.16570017,
-    "mark": 0.2478,
+    "mark": 0.2481,
     "qty": 800.1937016564402,
-    "notional": 198.29,
+    "notional": 198.53,
     "margin": 65.8,
-    "upnl": 0.88,
-    "return_pct": 1.34,
+    "upnl": 1.12,
+    "return_pct": 1.7,
     "stale": false
    }
   ],
@@ -1768,8 +1768,58 @@
    },
    {
     "day": "2026-11-20",
-    "t": 1795188624709,
-    "equity": 1000.72
+    "t": 1795188652992,
+    "equity": 1001.04
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188698001,
+    "equity": 1001.04
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188728010,
+    "equity": 1002.16
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188758019,
+    "equity": 1003.2
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188788022,
+    "equity": 1002
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188818034,
+    "equity": 1001.2
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188848041,
+    "equity": 1001.2
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188878048,
+    "equity": 1001.28
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188908061,
+    "equity": 1000.64
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188938067,
+    "equity": 1000.88
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795188938067,
+    "equity": 1000.88
    }
   ]
  }
