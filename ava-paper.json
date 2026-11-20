@@ -1,24 +1,25 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T21:45:27.605Z",
- "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
+ "generated_utc": "2026-11-20T21:46:52.513Z",
+ "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS (LONG + SHORT) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
   "longs": [],
+  "shorts": [],
   "fng": 12
  },
  "bot": {
   "mode": "AUTO",
   "last_window_utc": "2026-11-20T20:02:35.594Z",
   "next_window_utc": "2026-11-21T00:00:00.000Z",
-  "last_action": "EXIT MMT SIGNAL @ 0.2562",
+  "last_action": "ENTER NEAR SHORT TRIGGER @ 2.83 · 19x",
   "windows": 4,
-  "triggers": 0
+  "triggers": 3
  },
  "paper": {
   "status": "AUTO · LIVE",
-  "fills": 1,
+  "fills": 4,
   "last_signal_day": "2026-11-20",
   "slots": 15,
   "mark_day": "2026-11-20",
@@ -26,19 +27,101 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 1007.4,
-   "return_pct": 0.74,
-   "wallet": 1007.4,
+   "equity": 989.05,
+   "return_pct": -1.1,
+   "wallet": 1003.31,
    "realized_pnl": 7.56,
-   "fees_paid": 0,
+   "fees_paid": 4.09,
    "wins": 1,
    "losses": 0,
    "win_rate": 100,
-   "margin_used": 0,
-   "free": 1007.4,
-   "upnl": 0
+   "margin_used": 201.09,
+   "free": 802.22,
+   "upnl": -14.26
   },
-  "positions": [],
+  "positions": [
+   {
+    "symbol": "NEAR",
+    "via": "TRIGGER",
+    "entry_day": "2026-11-20",
+    "entry_px": 2.83,
+    "lev": 19,
+    "side": "SHORT",
+    "entry_ts": 1795211212513,
+    "otype": "MARKET",
+    "conf": null,
+    "fee_in": 1.27,
+    "src": [
+     "AVA"
+    ],
+    "sl": 2.962168796133204,
+    "tp": 2.49957801,
+    "liq": 2.96479737,
+    "mark": 2.839,
+    "qty": 449.54711400630066,
+    "dist_sl_pct": 4.34,
+    "dist_tp_pct": 11.96,
+    "notional": 1276.26,
+    "margin": 66.96,
+    "upnl": -4.05,
+    "return_pct": -6.04,
+    "stale": false
+   },
+   {
+    "symbol": "XRP",
+    "via": "TRIGGER",
+    "entry_day": "2026-11-20",
+    "entry_px": 0.9069,
+    "lev": 27,
+    "side": "SHORT",
+    "entry_ts": 1795211212513,
+    "otype": "MARKET",
+    "conf": null,
+    "fee_in": 1.81,
+    "src": [
+     "AVA"
+    ],
+    "sl": 0.9358100953279461,
+    "tp": 0.83462476,
+    "liq": 0.93595439,
+    "mark": 0.9092,
+    "qty": 1999.4692664347779,
+    "dist_sl_pct": 2.93,
+    "dist_tp_pct": 8.2,
+    "notional": 1817.92,
+    "margin": 67.16,
+    "upnl": -4.6,
+    "return_pct": -6.85,
+    "stale": false
+   },
+   {
+    "symbol": "ZEC",
+    "via": "TRIGGER",
+    "entry_day": "2026-11-20",
+    "entry_px": 748.1,
+    "lev": 15,
+    "side": "SHORT",
+    "entry_ts": 1795211212513,
+    "otype": "MARKET",
+    "conf": null,
+    "fee_in": 1,
+    "src": [
+     "AVA"
+    ],
+    "sl": 791.5273754601644,
+    "tp": 639.53156135,
+    "liq": 794.23283333,
+    "mark": 752.28,
+    "qty": 1.3428501698896431,
+    "dist_sl_pct": 5.22,
+    "dist_tp_pct": 14.99,
+    "notional": 1010.2,
+    "margin": 66.97,
+    "upnl": -5.61,
+    "return_pct": -8.38,
+    "stale": false
+   }
+  ],
   "trades": [
    {
     "symbol": "MMT",
@@ -2494,8 +2577,13 @@
    },
    {
     "day": "2026-11-20",
-    "t": 1795211127605,
-    "equity": 1007.4
+    "t": 1795211212513,
+    "equity": 989.53
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795211212513,
+    "equity": 989.53
    }
   ]
  }
