@@ -1,24 +1,8 @@
 {
- "model": "AVA SIGNALS v1.1 \u2014 FORWARD PAPER BOOK",
+ "model": "AVA v1.1 \u2014 PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T06:24:17.240628+00:00",
- "rules": "SEGMENT v>=1.1 FROM 2026-11-20 \u00b7 LONG/STRONG LONG = 1 SLOT (1/15) \u00b7 FILLS AT NEXT DAILY CLOSE \u00b7 COST 0.10%/SIDE \u00b7 DISPLAY ONLY \u2014 NOT PART OF THE FROZEN EVALUATION",
- "paper": {
-  "status": "AWAITING FIRST FILL",
-  "nav": 1.0,
-  "return_pct": 0.0,
-  "positions": [],
-  "closed": [],
-  "closed_total": 0,
-  "fills": 0,
-  "mark_day": "2026-11-19",
-  "pending_longs": [
-   "MMT",
-   "SENT"
-  ],
-  "last_signal_day": "2026-11-20",
-  "slots": 15
- },
+ "generated_utc": "2026-11-20T06:53:13.109551+00:00",
+ "rules": "FUND $1,000 \u00b7 LEV 1x \u00b7 ISOLATED MARGIN \u00b7 LONG/STRONG LONG = 1 SLOT (1/15 OF EQUITY) \u00b7 FILLS AT NEXT DAILY CLOSE \u00b7 SL = ENTRY SIGNAL'S 2x ATR INVALIDATION (FIXED) \u00b7 FEE 0.10%/SIDE \u00b7 DISPLAY ONLY \u2014 NOT PART OF THE FROZEN EVALUATION",
  "latest": {
   "day": "2026-11-20",
   "longs": [
@@ -26,5 +10,35 @@
    "SENT"
   ],
   "fng": 10
+ },
+ "paper": {
+  "status": "AWAITING FIRST FILL",
+  "fills": 0,
+  "last_signal_day": "2026-11-20",
+  "slots": 15,
+  "mark_day": "2026-11-19",
+  "pending": [
+   {
+    "symbol": "MMT",
+    "sl": 0.1835
+   },
+   {
+    "symbol": "SENT",
+    "sl": 0.0175
+   }
+  ],
+  "account": {
+   "fund": 1000.0,
+   "lev": 1,
+   "equity": 1000.0,
+   "return_pct": 0.0,
+   "margin_used": 0,
+   "free": 1000.0,
+   "upnl": 0
+  },
+  "positions": [],
+  "trades": [],
+  "trades_total": 0,
+  "equity_curve": []
  }
 }
