@@ -1,0 +1,30 @@
+{
+ "model": "AVA SIGNALS v1.1 \u2014 FORWARD PAPER BOOK",
+ "notice": "NOT FINANCIAL ADVICE",
+ "generated_utc": "2026-11-20T06:24:17.240628+00:00",
+ "rules": "SEGMENT v>=1.1 FROM 2026-11-20 \u00b7 LONG/STRONG LONG = 1 SLOT (1/15) \u00b7 FILLS AT NEXT DAILY CLOSE \u00b7 COST 0.10%/SIDE \u00b7 DISPLAY ONLY \u2014 NOT PART OF THE FROZEN EVALUATION",
+ "paper": {
+  "status": "AWAITING FIRST FILL",
+  "nav": 1.0,
+  "return_pct": 0.0,
+  "positions": [],
+  "closed": [],
+  "closed_total": 0,
+  "fills": 0,
+  "mark_day": "2026-11-19",
+  "pending_longs": [
+   "MMT",
+   "SENT"
+  ],
+  "last_signal_day": "2026-11-20",
+  "slots": 15
+ },
+ "latest": {
+  "day": "2026-11-20",
+  "longs": [
+   "MMT",
+   "SENT"
+  ],
+  "fng": 10
+ }
+}
