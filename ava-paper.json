@@ -1,40 +1,65 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T08:55:25.176Z",
+ "generated_utc": "2026-11-20T08:57:49.443Z",
  "rules": "AUTO BOT · 4H MODEL WINDOWS + 1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
-  "day": null,
-  "longs": [],
-  "fng": null
+  "day": "2026-11-20",
+  "longs": [
+   "MMT"
+  ],
+  "fng": 12
  },
  "bot": {
   "mode": "AUTO",
-  "last_window_utc": null,
-  "next_window_utc": null,
-  "last_action": "BOT STARTED",
-  "windows": 0,
+  "last_window_utc": "2026-11-20T08:57:49.443Z",
+  "next_window_utc": "2026-11-20T08:00:00.000Z",
+  "last_action": "ENTER MMT WINDOW @ 0.2467 · 3x",
+  "windows": 1,
   "triggers": 0
  },
  "paper": {
   "status": "AUTO · LIVE",
-  "fills": 0,
-  "last_signal_day": null,
+  "fills": 1,
+  "last_signal_day": "2026-11-20",
   "slots": 15,
-  "mark_day": null,
+  "mark_day": "2026-11-20",
   "pending": [],
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 1000,
-   "return_pct": 0,
-   "margin_used": 0,
-   "free": 1000,
+   "equity": 999.8,
+   "return_pct": -0.02,
+   "margin_used": 66.67,
+   "free": 933.13,
    "upnl": 0
   },
-  "positions": [],
+  "positions": [
+   {
+    "symbol": "MMT",
+    "via": "WINDOW",
+    "entry_day": "2026-11-20",
+    "entry_px": 0.2467,
+    "lev": 3,
+    "sl": 0.1807,
+    "tp": 0.4117,
+    "liq": 0.16570017,
+    "mark": 0.2467,
+    "qty": 810.7012565869477,
+    "notional": 200,
+    "margin": 66.67,
+    "upnl": 0,
+    "return_pct": 0,
+    "stale": false
+   }
+  ],
   "trades": [],
   "trades_total": 0,
-  "equity_curve": []
+  "equity_curve": [
+   {
+    "day": "2026-11-20",
+    "equity": 999.8
+   }
+  ]
  }
 }
