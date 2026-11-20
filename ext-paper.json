@@ -1,0 +1,46 @@
+{
+ "model": "EXTERNAL MODEL — PAPER ENGINE",
+ "notice": "NOT FINANCIAL ADVICE",
+ "generated_utc": "2026-11-20T15:02:02.978Z",
+ "rules": "AUTO BOT · EXTERNAL MODEL DAILY OBSERVATIONS (SCHEDULED ONLY) · MARKET ENTRIES · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
+ "latest": {
+  "day": null,
+  "longs": [],
+  "fng": null
+ },
+ "bot": {
+  "mode": "AUTO",
+  "last_window_utc": null,
+  "next_window_utc": "2026-11-21T00:15:00.000Z",
+  "last_action": "AWAITING FIRST SCHEDULED OBSERVATION",
+  "windows": 0,
+  "triggers": 0
+ },
+ "paper": {
+  "status": "AWAITING FIRST SCHEDULED OBSERVATION",
+  "fills": 0,
+  "last_signal_day": null,
+  "slots": 15,
+  "mark_day": null,
+  "pending": [],
+  "account": {
+   "fund": 1000,
+   "lev_label": "AUTO ≤100x",
+   "equity": 1000,
+   "return_pct": 0,
+   "margin_used": 0,
+   "free": 1000,
+   "upnl": 0
+  },
+  "positions": [],
+  "trades": [],
+  "trades_total": 0,
+  "equity_curve": [
+   {
+    "day": "2026-11-20",
+    "t": 1795186922978,
+    "equity": 1000
+   }
+  ]
+ }
+}
