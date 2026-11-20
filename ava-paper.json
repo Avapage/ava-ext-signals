@@ -1,8 +1,8 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T11:30:13.170Z",
- "rules": "AUTO BOT · 4H MODEL WINDOWS + 1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
+ "generated_utc": "2026-11-20T11:54:00.639Z",
+ "rules": "AUTO BOT · REALTIME · 4H MODEL WINDOWS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
   "longs": [
@@ -28,11 +28,11 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 1004.91,
-   "return_pct": 0.49,
+   "equity": 1000.77,
+   "return_pct": 0.08,
    "margin_used": 66.67,
    "free": 933.13,
-   "upnl": 5.11
+   "upnl": 0.97
   },
   "positions": [
    {
@@ -44,12 +44,12 @@
     "sl": 0.1807,
     "tp": 0.4117,
     "liq": 0.16570017,
-    "mark": 0.253,
+    "mark": 0.2479,
     "qty": 810.7012565869477,
-    "notional": 205.11,
+    "notional": 200.97,
     "margin": 66.67,
-    "upnl": 5.11,
-    "return_pct": 7.66,
+    "upnl": 0.97,
+    "return_pct": 1.46,
     "stale": false
    }
   ],
@@ -58,7 +58,18 @@
   "equity_curve": [
    {
     "day": "2026-11-20",
+    "t": 1795165069443,
     "equity": 999.8
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795175640639,
+    "equity": 1000.37
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795175640639,
+    "equity": 1000.37
    }
   ]
  }
