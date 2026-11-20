@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T23:18:00.986Z",
+ "generated_utc": "2026-11-20T23:23:02.014Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS (LONG + SHORT) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-20",
@@ -27,8 +27,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 960.75,
-   "return_pct": -3.93,
+   "equity": 960.34,
+   "return_pct": -3.97,
    "wallet": 1003.31,
    "realized_pnl": 7.56,
    "fees_paid": 4.09,
@@ -39,7 +39,7 @@
    "win_rate": 100,
    "margin_used": 201.09,
    "free": 802.22,
-   "upnl": -42.56
+   "upnl": -42.97
   },
   "positions": [
    {
@@ -60,14 +60,14 @@
     "sl": 2.962168796133204,
     "tp": 2.49957801,
     "liq": 2.96479737,
-    "mark": 2.864,
+    "mark": 2.87,
     "qty": 449.54711400630066,
-    "dist_sl_pct": 3.43,
-    "dist_tp_pct": 12.72,
-    "notional": 1287.5,
+    "dist_sl_pct": 3.21,
+    "dist_tp_pct": 12.91,
+    "notional": 1290.2,
     "margin": 66.96,
-    "upnl": -15.28,
-    "return_pct": -22.83,
+    "upnl": -17.98,
+    "return_pct": -26.86,
     "stale": false
    },
    {
@@ -88,14 +88,14 @@
     "sl": 0.9358100953279461,
     "tp": 0.83462476,
     "liq": 0.93595439,
-    "mark": 0.9127,
+    "mark": 0.9124,
     "qty": 1999.4692664347779,
-    "dist_sl_pct": 2.53,
-    "dist_tp_pct": 8.55,
-    "notional": 1824.92,
+    "dist_sl_pct": 2.57,
+    "dist_tp_pct": 8.52,
+    "notional": 1824.32,
     "margin": 67.16,
-    "upnl": -11.6,
-    "return_pct": -17.27,
+    "upnl": -11,
+    "return_pct": -16.37,
     "stale": false
    },
    {
@@ -116,14 +116,14 @@
     "sl": 791.5273754601644,
     "tp": 639.53156135,
     "liq": 794.23283333,
-    "mark": 759.78,
+    "mark": 758.52,
     "qty": 1.3428501698896431,
-    "dist_sl_pct": 4.18,
-    "dist_tp_pct": 15.83,
-    "notional": 1020.27,
+    "dist_sl_pct": 4.35,
+    "dist_tp_pct": 15.69,
+    "notional": 1018.58,
     "margin": 66.97,
-    "upnl": -15.68,
-    "return_pct": -23.42,
+    "upnl": -13.99,
+    "return_pct": -20.89,
     "stale": false
    }
   ],
@@ -2127,8 +2127,53 @@
    },
    {
     "day": "2026-11-20",
-    "t": 1795216680986,
-    "equity": 959.76
+    "t": 1795216703494,
+    "equity": 962.54
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216735464,
+    "equity": 964.97
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216771237,
+    "equity": 967.99
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216801262,
+    "equity": 967.86
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216850158,
+    "equity": 970.28
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216880183,
+    "equity": 965.49
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216918796,
+    "equity": 964.81
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216948816,
+    "equity": 960.37
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216982014,
+    "equity": 960.62
+   },
+   {
+    "day": "2026-11-20",
+    "t": 1795216982014,
+    "equity": 960.62
    }
   ]
  }
