@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-21T13:12:42.356Z",
+ "generated_utc": "2026-11-21T13:17:42.419Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS (LONG + SHORT) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-21",
@@ -56,8 +56,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 752.52,
-   "return_pct": -24.75,
+   "equity": 757.76,
+   "return_pct": -24.22,
    "wallet": 952.62,
    "realized_pnl": -87.26,
    "fees_paid": 15.79,
@@ -68,7 +68,7 @@
    "win_rate": 40,
    "margin_used": 505.38,
    "free": 447.24,
-   "upnl": -200.1
+   "upnl": -194.86
   },
   "positions": [
    {
@@ -89,16 +89,16 @@
     "sl": 542.7202,
     "tp": 457.4595,
     "liq": 543.05030526,
-    "mark": 537.99,
+    "mark": 537.38,
     "qty": 1.8477707049398127,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 0.88,
-    "dist_tp_pct": 14.97,
-    "notional": 994.08,
+    "dist_sl_pct": 0.99,
+    "dist_tp_pct": 14.87,
+    "notional": 992.96,
     "margin": 50.41,
-    "upnl": -36.27,
-    "return_pct": -71.95,
+    "upnl": -35.14,
+    "return_pct": -69.72,
     "stale": false
    },
    {
@@ -119,16 +119,16 @@
     "sl": 0.0574,
     "tp": 0.046795,
     "liq": 0.05746054,
-    "mark": 0.0544,
+    "mark": 0.05433,
     "qty": 15348.92408249682,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 5.51,
-    "dist_tp_pct": 13.98,
-    "notional": 834.98,
+    "dist_sl_pct": 5.65,
+    "dist_tp_pct": 13.87,
+    "notional": 833.91,
     "margin": 51.61,
-    "upnl": -0.46,
-    "return_pct": -0.89,
+    "upnl": 0.61,
+    "return_pct": 1.19,
     "stale": false
    },
    {
@@ -149,16 +149,16 @@
     "sl": 0.1044,
     "tp": 0.07185,
     "liq": 0.10519117,
-    "mark": 0.0961,
+    "mark": 0.096,
     "qty": 4881.575204549609,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 8.64,
-    "dist_tp_pct": 25.23,
-    "notional": 469.12,
+    "dist_sl_pct": 8.75,
+    "dist_tp_pct": 25.16,
+    "notional": 468.63,
     "margin": 51.58,
-    "upnl": -4.88,
-    "return_pct": -9.46,
+    "upnl": -4.39,
+    "return_pct": -8.52,
     "stale": false
    },
    {
@@ -179,16 +179,16 @@
     "sl": 1736.5963,
     "tp": 1355.35425,
     "liq": 1744.73703462,
-    "mark": 1672.98,
+    "mark": 1670.24,
     "qty": 0.40553831458442074,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 3.8,
-    "dist_tp_pct": 18.99,
-    "notional": 678.46,
+    "dist_sl_pct": 3.97,
+    "dist_tp_pct": 18.85,
+    "notional": 677.35,
     "margin": 50.78,
-    "upnl": -18.37,
-    "return_pct": -36.19,
+    "upnl": -17.26,
+    "return_pct": -34,
     "stale": false
    },
    {
@@ -209,16 +209,16 @@
     "sl": 62.9236,
     "tp": 45.201,
     "liq": 63.39818706,
-    "mark": 60.24,
+    "mark": 60.16,
     "qty": 8.672155009203241,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 4.45,
-    "dist_tp_pct": 24.97,
-    "notional": 522.41,
+    "dist_sl_pct": 4.59,
+    "dist_tp_pct": 24.87,
+    "notional": 521.72,
     "margin": 50.54,
-    "upnl": -20.64,
-    "return_pct": -40.84,
+    "upnl": -19.95,
+    "return_pct": -39.47,
     "stale": false
    },
    {
@@ -239,16 +239,16 @@
     "sl": 70.3222,
     "tp": 56.3145,
     "liq": 70.40973333,
-    "mark": 69.57,
+    "mark": 69.46,
     "qty": 11.231378573394005,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 1.08,
-    "dist_tp_pct": 19.05,
-    "notional": 781.37,
+    "dist_sl_pct": 1.24,
+    "dist_tp_pct": 18.93,
+    "notional": 780.13,
     "margin": 49.66,
-    "upnl": -36.5,
-    "return_pct": -73.51,
+    "upnl": -35.27,
+    "return_pct": -71.02,
     "stale": false
    },
    {
@@ -269,16 +269,16 @@
     "sl": 0.656,
     "tp": 0.49815,
     "liq": 0.65875383,
-    "mark": 0.6405,
+    "mark": 0.6402,
     "qty": 985.6428916192524,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 2.42,
-    "dist_tp_pct": 22.22,
-    "notional": 631.3,
+    "dist_sl_pct": 2.47,
+    "dist_tp_pct": 22.19,
+    "notional": 631.01,
     "margin": 50.18,
-    "upnl": -29.18,
-    "return_pct": -58.14,
+    "upnl": -28.88,
+    "return_pct": -57.55,
     "stale": false
    },
    {
@@ -299,16 +299,16 @@
     "sl": 4.7639,
     "tp": 3.36775,
     "liq": 4.779675,
-    "mark": 4.519,
+    "mark": 4.51,
     "qty": 114.3217597401172,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 5.42,
-    "dist_tp_pct": 25.48,
-    "notional": 516.62,
+    "dist_sl_pct": 5.63,
+    "dist_tp_pct": 25.33,
+    "notional": 515.59,
     "margin": 49.9,
-    "upnl": -17.61,
-    "return_pct": -35.28,
+    "upnl": -16.58,
+    "return_pct": -33.22,
     "stale": false
    },
    {
@@ -329,16 +329,16 @@
     "sl": 0.9358100953279461,
     "tp": 0.83462476,
     "liq": 0.93572757,
-    "mark": 0.9088,
+    "mark": 0.908,
     "qty": 1541.1236094478297,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 2.97,
-    "dist_tp_pct": 8.16,
-    "notional": 1400.57,
+    "dist_sl_pct": 3.06,
+    "dist_tp_pct": 8.08,
+    "notional": 1399.34,
     "margin": 51.42,
-    "upnl": -2.93,
-    "return_pct": -5.7,
+    "upnl": -1.7,
+    "return_pct": -3.3,
     "stale": false
    },
    {
@@ -359,16 +359,16 @@
     "sl": 791.5273754601644,
     "tp": 639.53156135,
     "liq": 793.02990034,
-    "mark": 780.94,
+    "mark": 783.94,
     "qty": 1.0129075234282183,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 1.36,
-    "dist_tp_pct": 18.11,
-    "notional": 791.02,
+    "dist_sl_pct": 0.97,
+    "dist_tp_pct": 18.42,
+    "notional": 794.06,
     "margin": 49.3,
-    "upnl": -33.26,
-    "return_pct": -67.47,
+    "upnl": -36.3,
+    "return_pct": -73.64,
     "stale": false
    }
   ],
@@ -2221,8 +2221,58 @@
    },
    {
     "day": "2026-11-21",
-    "t": 1795266762356,
-    "equity": 752.5
+    "t": 1795266777357,
+    "equity": 745.12
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266807367,
+    "equity": 745.53
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266837370,
+    "equity": 745.26
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266867381,
+    "equity": 752.66
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266897384,
+    "equity": 745.4
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266927396,
+    "equity": 746.81
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266957400,
+    "equity": 754.09
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795266987407,
+    "equity": 762.71
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795267017415,
+    "equity": 755.19
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795267047419,
+    "equity": 750.75
+   },
+   {
+    "day": "2026-11-21",
+    "t": 1795267062419,
+    "equity": 757.75
    }
   ]
  }
