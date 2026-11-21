@@ -1,50 +1,14 @@
 {
  "model": "CRYPTO MOMENTUM v1.0 \u2014 EXTERNAL \u00b7 FROZEN RULES",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-20T05:51:56.854447+00:00",
+ "generated_utc": "2026-11-21T00:12:47.052932+00:00",
  "rule_sha256": "67cb7e90c60c4d3a792c68158630c0c9214d6211b5bc84c35bf43e31f020f742",
  "latest": {
-  "kind": "pilot",
-  "cutoff_utc": "2026-11-20T04:00:00+00:00",
-  "observed_utc": "2026-11-20T05:09:11.228817+00:00",
+  "kind": "scheduled",
+  "cutoff_utc": "2026-11-21T00:00:00+00:00",
+  "observed_utc": "2026-11-21T00:12:25.016067+00:00",
   "longs": [],
   "top": [
-   {
-    "symbol": "GTCUSDT",
-    "score": 44.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "TRXUSDT",
-    "score": 35.0,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "INJUSDT",
-    "score": 27.0,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "SOLUSDT",
-    "score": 22.9,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "TAOUSDT",
-    "score": 20.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "BNBUSDT",
-    "score": 19.0,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
    {
     "symbol": "LINKUSDT",
     "score": 19.0,
@@ -56,25 +20,63 @@
     "score": 18.1,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "SOLUSDT",
+    "score": 17.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "TRXUSDT",
+    "score": 15.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "BNBUSDT",
+    "score": 13.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "ETHUSDT",
+    "score": 12.8,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "PEPEUSDT",
+    "score": 12.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "ADAUSDT",
+    "score": 11.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
    }
   ],
   "pairs": 40
  },
  "forward": {
-  "scheduled_days": 0,
-  "first_scheduled_cutoff": null,
+  "scheduled_days": 1,
+  "first_scheduled_cutoff": "2026-11-21T00:00:00+00:00",
   "pilots": 2,
   "failed_records": 1
  },
  "paper": {
-  "status": "AWAITING FIRST SCHEDULED OBSERVATION",
+  "status": "LIVE",
   "nav": 1.0,
   "return_pct": 0.0,
+  "nav_at_last_fill": 1.0,
   "positions": [],
   "closed": [],
-  "fills": 0,
+  "closed_total": 0,
+  "fills": 1,
   "writeoffs": 0,
-  "mark_utc": null
+  "mark_utc": "2026-11-21 00:00:00+00:00"
  },
  "backtest": {
   "period": "2022-01-01 \u2192 2026-11-01 \u00b7 POINT-IN-TIME TOP-40 \u00b7 NEXT-OPEN FILLS",
