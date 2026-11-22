@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-22T23:30:33.695Z",
+ "generated_utc": "2026-11-22T23:35:33.777Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-22",
@@ -3268,7 +3268,32 @@
    },
    {
     "day": "2026-11-22",
-    "t": 1795390233695,
+    "t": 1795390293709,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795390353728,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795390413742,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795390473758,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795390533777,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795390533777,
     "equity": 567.18
    }
   ]
