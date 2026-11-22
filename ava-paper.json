@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-22T15:30:43.390Z",
+ "generated_utc": "2026-11-22T15:35:43.462Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS (LONG + SHORT) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · LEV AUTO ≤100x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-22",
@@ -30,8 +30,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 592.5,
-   "return_pct": -40.75,
+   "equity": 592.29,
+   "return_pct": -40.77,
    "wallet": 577.62,
    "realized_pnl": -488.29,
    "fees_paid": 32.62,
@@ -42,7 +42,7 @@
    "win_rate": 25,
    "margin_used": 74.02,
    "free": 503.6,
-   "upnl": 14.88
+   "upnl": 14.67
   },
   "positions": [
    {
@@ -93,16 +93,16 @@
     "sl": 846.8344,
     "tp": 679.48,
     "liq": 849.46652687,
-    "mark": 795.57,
+    "mark": 796.02,
     "qty": 0.4686948273576921,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 6.44,
-    "dist_tp_pct": 14.59,
-    "notional": 372.88,
+    "dist_sl_pct": 6.38,
+    "dist_tp_pct": 14.64,
+    "notional": 373.09,
     "margin": 36.36,
-    "upnl": -9.28,
-    "return_pct": -25.52,
+    "upnl": -9.49,
+    "return_pct": -26.11,
     "stale": false
    }
   ],
@@ -1954,8 +1954,33 @@
    },
    {
     "day": "2026-11-22",
-    "t": 1795361443390,
-    "equity": 592.5
+    "t": 1795361458397,
+    "equity": 592.48
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795361518408,
+    "equity": 592.56
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795361593416,
+    "equity": 592.42
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795361653441,
+    "equity": 596.5
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795361728461,
+    "equity": 592.29
+   },
+   {
+    "day": "2026-11-22",
+    "t": 1795361728461,
+    "equity": 592.29
    }
   ]
  }
