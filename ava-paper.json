@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T14:20:46.318Z",
+ "generated_utc": "2026-11-23T14:21:01.319Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -106,8 +106,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 583.13,
-   "return_pct": -41.69,
+   "equity": 582.59,
+   "return_pct": -41.74,
    "wallet": 565.63,
    "realized_pnl": -500.38,
    "fees_paid": 33.83,
@@ -118,7 +118,7 @@
    "win_rate": 24.1,
    "margin_used": 15.25,
    "free": 550.38,
-   "upnl": 17.5
+   "upnl": 16.96
   },
   "positions": [
    {
@@ -139,16 +139,16 @@
     "sl": 2.96854418,
     "tp": 3.4677017,
     "liq": 2.68312176,
-    "mark": 3.252,
+    "mark": 3.237,
     "qty": 35.24909181270158,
     "sl_tag": "BE",
     "banked": false,
-    "dist_sl_pct": 8.72,
-    "dist_tp_pct": 6.63,
-    "notional": 114.63,
+    "dist_sl_pct": 8.29,
+    "dist_tp_pct": 7.13,
+    "notional": 114.1,
     "margin": 10.46,
-    "upnl": 10.12,
-    "return_pct": 96.74,
+    "upnl": 9.59,
+    "return_pct": 91.68,
     "stale": false
    },
    {
@@ -166,19 +166,19 @@
     "src": [
      "AVA"
     ],
-    "sl": 5.87796506,
+    "sl": 5.90796506,
     "tp": null,
     "liq": 4.39692857,
-    "mark": 6.222,
+    "mark": 6.22,
     "qty": 6.581141146914356,
     "sl_tag": "TRAIL",
     "banked": true,
-    "dist_sl_pct": 5.53,
+    "dist_sl_pct": 5.02,
     "dist_tp_pct": null,
-    "notional": 40.95,
+    "notional": 40.93,
     "margin": 4.79,
-    "upnl": 7.38,
-    "return_pct": 154,
+    "upnl": 7.37,
+    "return_pct": 153.73,
     "stale": false
    }
   ],
@@ -2010,8 +2010,13 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795443646318,
-    "equity": 583.13
+    "t": 1795443661319,
+    "equity": 582.59
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795443661319,
+    "equity": 582.59
    }
   ]
  }
