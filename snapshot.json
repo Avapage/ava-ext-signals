@@ -1,59 +1,59 @@
 {
  "model": "CRYPTO MOMENTUM v1.0 \u2014 EXTERNAL \u00b7 FROZEN RULES",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-22T00:12:16.845997+00:00",
+ "generated_utc": "2026-11-23T00:12:20.440453+00:00",
  "rule_sha256": "67cb7e90c60c4d3a792c68158630c0c9214d6211b5bc84c35bf43e31f020f742",
  "latest": {
   "kind": "scheduled",
-  "cutoff_utc": "2026-11-22T00:00:00+00:00",
-  "observed_utc": "2026-11-22T00:12:09.937395+00:00",
+  "cutoff_utc": "2026-11-23T00:00:00+00:00",
+  "observed_utc": "2026-11-23T00:12:12.095352+00:00",
   "longs": [],
   "top": [
    {
-    "symbol": "TAOUSDT",
+    "symbol": "STRKUSDT",
     "score": 29.5,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
-    "symbol": "SOLUSDT",
-    "score": 26.1,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "BCHUSDT",
-    "score": 25.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
     "symbol": "TRXUSDT",
-    "score": 24.0,
+    "score": 29.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "TAOUSDT",
+    "score": 26.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "LINKUSDT",
+    "score": 26.5,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
     "symbol": "BTCUSDT",
-    "score": 22.2,
+    "score": 26.4,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
-    "symbol": "XRPUSDT",
-    "score": 21.5,
+    "symbol": "ETHUSDT",
+    "score": 25.4,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
-    "symbol": "XLMUSDT",
-    "score": 20.5,
+    "symbol": "NEARUSDT",
+    "score": 25.0,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
-    "symbol": "QNTUSDT",
-    "score": 19.5,
+    "symbol": "PUMPUSDT",
+    "score": 23.5,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    }
@@ -61,7 +61,7 @@
   "pairs": 40
  },
  "forward": {
-  "scheduled_days": 2,
+  "scheduled_days": 3,
   "first_scheduled_cutoff": "2026-11-21T00:00:00+00:00",
   "pilots": 2,
   "failed_records": 1
@@ -74,9 +74,9 @@
   "positions": [],
   "closed": [],
   "closed_total": 0,
-  "fills": 2,
+  "fills": 3,
   "writeoffs": 0,
-  "mark_utc": "2026-11-22 00:00:00+00:00"
+  "mark_utc": "2026-11-23 00:00:00+00:00"
  },
  "backtest": {
   "period": "2022-01-01 \u2192 2026-11-01 \u00b7 POINT-IN-TIME TOP-40 \u00b7 NEXT-OPEN FILLS",
