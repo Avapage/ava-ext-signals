@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T05:17:33.468Z",
+ "generated_utc": "2026-11-23T05:22:33.531Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -91,8 +91,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 569.56,
-   "return_pct": -43.04,
+   "equity": 569.66,
+   "return_pct": -43.03,
    "wallet": 567.55,
    "realized_pnl": -498.5,
    "fees_paid": 33.73,
@@ -103,7 +103,7 @@
    "win_rate": 22.2,
    "margin_used": 10.08,
    "free": 557.47,
-   "upnl": 2.01
+   "upnl": 2.11
   },
   "positions": [
    {
@@ -124,16 +124,16 @@
     "sl": 2.7639,
     "tp": 3.4677017,
     "liq": 2.68331251,
-    "mark": 3.024,
+    "mark": 3.027,
     "qty": 34.006540288699775,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 8.6,
-    "dist_tp_pct": 14.67,
-    "notional": 102.84,
+    "dist_sl_pct": 8.69,
+    "dist_tp_pct": 14.56,
+    "notional": 102.94,
     "margin": 10.08,
-    "upnl": 2.01,
-    "return_pct": 19.9,
+    "upnl": 2.11,
+    "return_pct": 20.92,
     "stale": false
    }
   ],
@@ -2000,8 +2000,43 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795411053468,
+    "t": 1795411098481,
+    "equity": 569.63
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411143492,
     "equity": 569.56
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411188504,
+    "equity": 569.5
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411218510,
+    "equity": 569.32
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411248511,
+    "equity": 569.43
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411308519,
+    "equity": 569.5
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411338529,
+    "equity": 569.63
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795411353531,
+    "equity": 569.67
    }
   ]
  }
