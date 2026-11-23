@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T08:17:34.044Z",
+ "generated_utc": "2026-11-23T08:22:34.109Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -2719,7 +2719,82 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795421854044,
+    "t": 1795421869050,
+    "equity": 568.88
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421884054,
+    "equity": 568.78
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421899056,
+    "equity": 568.81
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421914057,
+    "equity": 568.91
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421929063,
+    "equity": 568.84
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421944066,
+    "equity": 568.88
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421974069,
+    "equity": 568.78
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795421989076,
+    "equity": 568.74
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422004079,
+    "equity": 568.71
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422019082,
+    "equity": 568.81
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422034082,
+    "equity": 568.78
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422049090,
+    "equity": 568.84
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422109104,
+    "equity": 568.84
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422139109,
+    "equity": 568.81
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422154109,
+    "equity": 568.84
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795422154109,
     "equity": 568.84
    }
   ]
