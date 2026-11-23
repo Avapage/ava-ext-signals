@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T02:05:35.341Z",
+ "generated_utc": "2026-11-23T02:08:35.383Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -18,7 +18,7 @@
   "mode": "AUTO",
   "last_window_utc": "2026-11-23T00:03:34.288Z",
   "next_window_utc": "2026-11-23T04:00:00.000Z",
-  "last_action": "EXT OBS 2026-11-23 · 0 LONGS",
+  "last_action": "ENTER NEAR LONG WINDOW @ 2.9649862 · 10x",
   "windows": 17,
   "triggers": 4,
   "breadth": 0.57,
@@ -26,7 +26,7 @@
  },
  "paper": {
   "status": "AUTO · LIVE",
-  "fills": 27,
+  "fills": 28,
   "last_signal_day": "2026-11-23",
   "slots": 15,
   "mark_day": "2026-11-23",
@@ -43,39 +43,57 @@
     "expires": 1795392000000,
     "conf": "LOW",
     "margin": 37.81
-   },
-   {
-    "symbol": "NEAR",
-    "via": "WINDOW",
-    "side": "LONG",
-    "limit_px": 2.9649862,
-    "sl": 2.7639,
-    "tp": 3.4677017,
-    "lev": 10,
-    "created": 1795392214288,
-    "expires": 1795392000000,
-    "conf": "LOW",
-    "margin": 12.54
    }
   ],
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 567.18,
-   "return_pct": -43.28,
-   "wallet": 567.18,
+   "equity": 567.11,
+   "return_pct": -43.29,
+   "wallet": 567.15,
    "realized_pnl": -498.5,
-   "fees_paid": 33.69,
+   "fees_paid": 33.72,
    "funding_net": 1.67,
    "next_funding_utc": "2026-11-23T08:00:00.000Z",
    "wins": 6,
    "losses": 21,
    "win_rate": 22.2,
-   "margin_used": 0,
-   "free": 567.18,
-   "upnl": 0
+   "margin_used": 12.54,
+   "free": 554.61,
+   "upnl": -0.04
   },
-  "positions": [],
+  "positions": [
+   {
+    "symbol": "NEAR",
+    "via": "WINDOW",
+    "entry_day": "2026-11-23",
+    "entry_px": 2.9649862,
+    "lev": 10,
+    "side": "LONG",
+    "entry_ts": 1795399715383,
+    "otype": "LIMIT",
+    "conf": "LOW",
+    "fee_in": 0.03,
+    "funding": 0,
+    "src": [
+     "AVA"
+    ],
+    "sl": 2.7639,
+    "tp": 3.4677017,
+    "liq": 2.68331251,
+    "mark": 2.964,
+    "qty": 42.30861382634965,
+    "sl_tag": null,
+    "banked": false,
+    "dist_sl_pct": 6.75,
+    "dist_tp_pct": 16.99,
+    "notional": 125.4,
+    "margin": 12.54,
+    "upnl": -0.04,
+    "return_pct": -0.33,
+    "stale": false
+   }
+  ],
   "trades": [
    {
     "symbol": "MMT",
@@ -2919,8 +2937,28 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795399505332,
+    "t": 1795399565346,
     "equity": 567.18
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795399625363,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795399685375,
+    "equity": 567.18
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795399715383,
+    "equity": 567.11
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795399715383,
+    "equity": 567.11
    }
   ]
  }
