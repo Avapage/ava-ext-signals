@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T17:30:20.971Z",
+ "generated_utc": "2026-11-23T17:31:05.985Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -28,7 +28,7 @@
   "mode": "AUTO",
   "last_window_utc": "2026-11-23T16:02:39.814Z",
   "next_window_utc": "2026-11-23T20:00:00.000Z",
-  "last_action": "EXIT PROM LIQUIDATION @ 5.979",
+  "last_action": "ENTER BTC LONG WINDOW @ 61692.18361892 · 10x",
   "windows": 21,
   "triggers": 6,
   "breadth": 0.93,
@@ -36,7 +36,7 @@
  },
  "paper": {
   "status": "AUTO · LIVE",
-  "fills": 34,
+  "fills": 35,
   "last_signal_day": "2026-11-23",
   "slots": 15,
   "mark_day": "2026-11-23",
@@ -144,37 +144,24 @@
     "expires": 1795449600000,
     "conf": "LOW",
     "margin": 27.67
-   },
-   {
-    "symbol": "BTC",
-    "via": "WINDOW",
-    "side": "LONG",
-    "limit_px": 61692.18361892,
-    "sl": 59964.6163,
-    "tp": 64603.12,
-    "lev": 10,
-    "created": 1795449759814,
-    "expires": 1795449600000,
-    "conf": "LOW",
-    "margin": 31.27
    }
   ],
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 563.97,
-   "return_pct": -43.6,
-   "wallet": 565.54,
+   "equity": 563.92,
+   "return_pct": -43.61,
+   "wallet": 565.48,
    "realized_pnl": -500.09,
-   "fees_paid": 34.26,
+   "fees_paid": 34.32,
    "funding_net": 1.64,
    "next_funding_utc": "2026-11-24T00:00:00.000Z",
    "wins": 8,
    "losses": 23,
    "win_rate": 25.8,
-   "margin_used": 72.45,
-   "free": 493.09,
-   "upnl": -1.57
+   "margin_used": 102.67,
+   "free": 462.81,
+   "upnl": -1.56
   },
   "positions": [
    {
@@ -195,16 +182,46 @@
     "sl": 544.8986,
     "tp": 625.0885,
     "liq": 513.86805,
-    "mark": 563.31,
+    "mark": 562.85,
     "qty": 0.38006605878520505,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 3.27,
-    "dist_tp_pct": 10.97,
-    "notional": 214.1,
+    "dist_sl_pct": 3.19,
+    "dist_tp_pct": 11.06,
+    "notional": 213.92,
     "margin": 21.58,
-    "upnl": -1.71,
-    "return_pct": -7.93,
+    "upnl": -1.89,
+    "return_pct": -8.74,
+    "stale": false
+   },
+   {
+    "symbol": "BTC",
+    "via": "WINDOW",
+    "entry_day": "2026-11-23",
+    "entry_px": 61692.18361892,
+    "lev": 10,
+    "side": "LONG",
+    "entry_ts": 1795455065985,
+    "otype": "LIMIT",
+    "conf": "LOW",
+    "fee_in": 0.06,
+    "funding": 0,
+    "src": [
+     "AVA"
+    ],
+    "sl": 59964.6163,
+    "tp": 64603.12,
+    "liq": 55831.42617512,
+    "mark": 61650.45,
+    "qty": 0.004898895947564306,
+    "sl_tag": null,
+    "banked": false,
+    "dist_sl_pct": 2.73,
+    "dist_tp_pct": 4.79,
+    "notional": 302.02,
+    "margin": 30.22,
+    "upnl": -0.2,
+    "return_pct": -0.68,
     "stale": false
    },
    {
@@ -255,16 +272,16 @@
     "sl": 2.96854418,
     "tp": 3.4677017,
     "liq": 2.67715295,
-    "mark": 3.086,
+    "mark": 3.083,
     "qty": 58.263676177022276,
     "sl_tag": "BE",
     "banked": false,
-    "dist_sl_pct": 3.81,
-    "dist_tp_pct": 12.37,
-    "notional": 179.8,
+    "dist_sl_pct": 3.71,
+    "dist_tp_pct": 12.48,
+    "notional": 179.63,
     "margin": 17.63,
-    "upnl": 7.05,
-    "return_pct": 39.98,
+    "upnl": 6.88,
+    "return_pct": 38.99,
     "stale": false
    },
    {
@@ -285,16 +302,16 @@
     "sl": 0.0000034535715355383267,
     "tp": 0.000004,
     "liq": 0.00000327,
-    "mark": 0.00000353,
+    "mark": 0.00000354,
     "qty": 55986239.68399182,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 2.17,
-    "dist_tp_pct": 13.31,
-    "notional": 197.63,
+    "dist_sl_pct": 2.44,
+    "dist_tp_pct": 12.99,
+    "notional": 198.19,
     "margin": 20.21,
-    "upnl": -4.48,
-    "return_pct": -22.16,
+    "upnl": -3.92,
+    "return_pct": -19.39,
     "stale": false
    }
   ],
@@ -2491,8 +2508,13 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795455020971,
-    "equity": 563.97
+    "t": 1795455050980,
+    "equity": 564.7
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795455065985,
+    "equity": 563.92
    }
   ]
  }
