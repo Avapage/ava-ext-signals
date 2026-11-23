@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T14:23:31.350Z",
+ "generated_utc": "2026-11-23T14:23:46.356Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -106,7 +106,7 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 582.99,
+   "equity": 582.97,
    "return_pct": -41.7,
    "wallet": 565.63,
    "realized_pnl": -500.38,
@@ -118,7 +118,7 @@
    "win_rate": 24.1,
    "margin_used": 15.25,
    "free": 550.38,
-   "upnl": 17.36
+   "upnl": 17.34
   },
   "positions": [
    {
@@ -139,16 +139,16 @@
     "sl": 2.96854418,
     "tp": 3.4677017,
     "liq": 2.68312176,
-    "mark": 3.237,
+    "mark": 3.234,
     "qty": 35.24909181270158,
     "sl_tag": "BE",
     "banked": false,
-    "dist_sl_pct": 8.29,
-    "dist_tp_pct": 7.13,
-    "notional": 114.1,
+    "dist_sl_pct": 8.21,
+    "dist_tp_pct": 7.23,
+    "notional": 114,
     "margin": 10.46,
-    "upnl": 9.59,
-    "return_pct": 91.68,
+    "upnl": 9.48,
+    "return_pct": 90.67,
     "stale": false
    },
    {
@@ -166,19 +166,19 @@
     "src": [
      "AVA"
     ],
-    "sl": 5.96696506,
+    "sl": 5.97496506,
     "tp": null,
     "liq": 4.39692857,
-    "mark": 6.281,
+    "mark": 6.295,
     "qty": 6.581141146914356,
     "sl_tag": "TRAIL",
     "banked": true,
-    "dist_sl_pct": 5,
+    "dist_sl_pct": 5.08,
     "dist_tp_pct": null,
-    "notional": 41.34,
+    "notional": 41.43,
     "margin": 4.79,
-    "upnl": 7.77,
-    "return_pct": 162.1,
+    "upnl": 7.86,
+    "return_pct": 164.02,
     "stale": false
    }
   ],
@@ -2030,8 +2030,8 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795443811350,
-    "equity": 582.99
+    "t": 1795443826356,
+    "equity": 582.98
    }
   ]
  }
