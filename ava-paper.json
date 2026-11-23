@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T12:21:13.965Z",
+ "generated_utc": "2026-11-23T12:23:59.005Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -24,15 +24,15 @@
   "mode": "AUTO",
   "last_window_utc": "2026-11-23T12:02:47.123Z",
   "next_window_utc": "2026-11-23T16:00:00.000Z",
-  "last_action": "LIMIT DOGE LONG @ 0.05538756 · CONF LOW",
+  "last_action": "ENTER PROM LONG TRIGGER @ 5.1 · 7x",
   "windows": 20,
-  "triggers": 4,
+  "triggers": 5,
   "breadth": 0.79,
   "risk_mult": 1
  },
  "paper": {
   "status": "AUTO · LIVE",
-  "fills": 29,
+  "fills": 30,
   "last_signal_day": "2026-11-23",
   "slots": 15,
   "mark_day": "2026-11-23",
@@ -106,19 +106,19 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 562.35,
-   "return_pct": -43.76,
-   "wallet": 567.54,
-   "realized_pnl": -498.5,
-   "fees_paid": 33.76,
+   "equity": 560.06,
+   "return_pct": -43.99,
+   "wallet": 558.77,
+   "realized_pnl": -507.24,
+   "fees_paid": 33.81,
    "funding_net": 1.66,
    "next_funding_utc": "2026-11-23T16:00:00.000Z",
    "wins": 6,
-   "losses": 21,
-   "win_rate": 22.2,
-   "margin_used": 20.25,
-   "free": 547.29,
-   "upnl": -5.19
+   "losses": 22,
+   "win_rate": 21.4,
+   "margin_used": 20.05,
+   "free": 538.72,
+   "upnl": 1.29
   },
   "positions": [
    {
@@ -139,50 +139,76 @@
     "sl": 2.7639,
     "tp": 3.4677017,
     "liq": 2.68312176,
-    "mark": 2.995,
+    "mark": 2.996,
     "qty": 35.24909181270158,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 7.72,
-    "dist_tp_pct": 15.78,
-    "notional": 105.57,
+    "dist_sl_pct": 7.75,
+    "dist_tp_pct": 15.74,
+    "notional": 105.61,
     "margin": 10.46,
-    "upnl": 1.06,
-    "return_pct": 10.12,
+    "upnl": 1.09,
+    "return_pct": 10.45,
     "stale": false
    },
    {
     "symbol": "PROM",
-    "via": "WINDOW",
+    "via": "TRIGGER",
     "entry_day": "2026-11-23",
-    "entry_px": 6.182,
-    "lev": 5,
+    "entry_px": 5.1,
+    "lev": 7,
     "side": "LONG",
-    "entry_ts": 1795435367123,
+    "entry_ts": 1795436639005,
     "otype": "MARKET",
-    "conf": "HIGH",
-    "fee_in": 0.02,
+    "conf": null,
+    "fee_in": 0.03,
     "funding": 0,
     "src": [
      "AVA"
     ],
-    "sl": 5.1039,
-    "tp": 8.87725,
-    "liq": 4.97651,
-    "mark": 5.393,
-    "qty": 7.915937436503376,
+    "sl": 4.461930111797957,
+    "tp": 6.123,
+    "liq": 4.39692857,
+    "mark": 5.115,
+    "qty": 13.162282293828712,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 5.36,
-    "dist_tp_pct": 64.61,
-    "notional": 42.69,
-    "margin": 9.79,
-    "upnl": -6.25,
-    "return_pct": -63.81,
+    "dist_sl_pct": 12.77,
+    "dist_tp_pct": 19.71,
+    "notional": 67.33,
+    "margin": 9.59,
+    "upnl": 0.2,
+    "return_pct": 2.06,
     "stale": false
    }
   ],
   "trades": [
+   {
+    "symbol": "PROM",
+    "via": "WINDOW",
+    "lev": 5,
+    "reason": "STOP",
+    "side": "LONG",
+    "entry_day": "2026-11-23",
+    "exit_day": "2026-11-23",
+    "entry_px": 6.182,
+    "exit_px": 5.081,
+    "entry_ts": 1795435367123,
+    "exit_ts": 1795436639005,
+    "qty": 7.915937,
+    "margin": 9.79,
+    "notional": 48.94,
+    "fee_in": 0.02,
+    "fees": 0.04,
+    "funding": 0,
+    "otype": "MARKET",
+    "conf": "HIGH",
+    "src": [
+     "AVA"
+    ],
+    "pnl": -8.74,
+    "return_pct": -89.25
+   },
    {
     "symbol": "MMT",
     "via": "WINDOW",
@@ -468,35 +494,9 @@
     ],
     "pnl": -42.41,
     "return_pct": -92.17
-   },
-   {
-    "symbol": "PEPE",
-    "via": "WINDOW",
-    "lev": 26,
-    "reason": "SIGNAL",
-    "side": "SHORT",
-    "entry_day": "2026-11-21",
-    "exit_day": "2026-11-22",
-    "entry_px": 0.00000343,
-    "exit_px": 0.00000334,
-    "entry_ts": 1795295982532,
-    "exit_ts": 1795334413996,
-    "qty": 362453483.775973,
-    "margin": 47.77,
-    "notional": 1243.22,
-    "fee_in": 0.23,
-    "fees": 0.83,
-    "funding": -0.04,
-    "otype": "LIMIT",
-    "conf": "MED",
-    "src": [
-     "AVA"
-    ],
-    "pnl": 32.02,
-    "return_pct": 67.02
    }
   ],
-  "trades_total": 27,
+  "trades_total": 28,
   "equity_curve": [
    {
     "day": "2026-11-23",
@@ -2860,8 +2860,63 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795436458958,
-    "equity": 562.35
+    "t": 1795436488973,
+    "equity": 562.38
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436503975,
+    "equity": 562.49
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436518976,
+    "equity": 562.42
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436533983,
+    "equity": 562.21
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436548987,
+    "equity": 562.22
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436563988,
+    "equity": 561.79
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436578990,
+    "equity": 561.94
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436593997,
+    "equity": 562.07
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436609001,
+    "equity": 560.53
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436624003,
+    "equity": 559.77
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436639005,
+    "equity": 560.06
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795436639005,
+    "equity": 560.06
    }
   ]
  }
