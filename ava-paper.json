@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-23T07:30:16.272Z",
+ "generated_utc": "2026-11-23T07:35:28.422Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-23",
@@ -91,7 +91,7 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 568.81,
+   "equity": 568.77,
    "return_pct": -43.12,
    "wallet": 567.55,
    "realized_pnl": -498.5,
@@ -103,7 +103,7 @@
    "win_rate": 22.2,
    "margin_used": 10.08,
    "free": 557.47,
-   "upnl": 1.26
+   "upnl": 1.22
   },
   "positions": [
    {
@@ -124,16 +124,16 @@
     "sl": 2.7639,
     "tp": 3.4677017,
     "liq": 2.68331251,
-    "mark": 3.002,
+    "mark": 3.001,
     "qty": 34.006540288699775,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 7.93,
-    "dist_tp_pct": 15.51,
-    "notional": 102.09,
+    "dist_sl_pct": 7.9,
+    "dist_tp_pct": 15.55,
+    "notional": 102.05,
     "margin": 10.08,
-    "upnl": 1.26,
-    "return_pct": 12.48,
+    "upnl": 1.22,
+    "return_pct": 12.15,
     "stale": false
    }
   ],
@@ -2060,8 +2060,28 @@
    },
    {
     "day": "2026-11-23",
-    "t": 1795419016272,
-    "equity": 568.81
+    "t": 1795419103375,
+    "equity": 568.92
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795419193395,
+    "equity": 568.92
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795419253408,
+    "equity": 568.88
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795419328422,
+    "equity": 568.78
+   },
+   {
+    "day": "2026-11-23",
+    "t": 1795419328422,
+    "equity": 568.78
    }
   ]
  }
