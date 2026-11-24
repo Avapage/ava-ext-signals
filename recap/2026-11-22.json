@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-22",
+ "title": "A Second Day of Weekend Gains — and a Hard Lesson for the Short Book",
+ "lede": "Crypto drifted higher again on Sunday, with Bitcoin up 1.75% and Ether up 2.3%. Behind the calm tape, the terminal's paper engine was finishing a painful audit of its short trades — and parking the whole lane.",
+ "stats": [
+  {
+   "k": "BITCOIN",
+   "v": "$61,271 · +1.75%",
+   "cls": "up"
+  },
+  {
+   "k": "ETHEREUM",
+   "v": "$1,724 · +2.30%",
+   "cls": "up"
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "11 · EXTREME FEAR",
+   "cls": "down"
+  },
+  {
+   "k": "EQUITIES",
+   "v": "WEEKEND · CLOSED",
+   "cls": ""
+  }
+ ],
+ "sections": [
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin added 1.75% to close the weekend at $61,271, and Ether rose 2.30% to $1,724. Two green days repaired some of Friday's damage, but prices remained well below the week's opening levels."
+   ]
+  },
+  {
+   "h": "Signals",
+   "paras": [
+    "Breadth stayed at 0% for a second straight day. The models' message was unchanged: this was a bounce inside a downtrend, not a turn."
+   ]
+  },
+  {
+   "h": "Paper Engine",
+   "paras": [
+    "Another 15 trades closed for −$231.36, again mostly shorts — SUI and HYPE shorts were stopped out and an XRP short was liquidated.",
+    "By the end of the day, the desk parked the short lane entirely. An audit of 25 closed trades showed the derived shorts had lost $495.85 at a 22% win rate, while longs were roughly flat. Shorts stay parked until the lane is backtested on its own; position sizing was also reset so a single stop-out risks about 1.5% of equity."
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
