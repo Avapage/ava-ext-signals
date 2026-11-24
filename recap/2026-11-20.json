@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-20",
+ "title": "Rout on Friday: Nasdaq Crashes 5.7% in the Week's Capitulation",
+ "lede": "Friday brought the heaviest selling of the week. The Nasdaq 100 plunged 5.67%, the S&P 500 lost 3.64%, and Ether dropped 7.64% as a global risk selloff hit full force into the weekend.",
+ "stats": [
+  {
+   "k": "IHSG",
+   "v": "5,146.33 · -0.92%",
+   "cls": "down"
+  },
+  {
+   "k": "S&P 500",
+   "v": "-3.64%",
+   "cls": "down"
+  },
+  {
+   "k": "NASDAQ 100",
+   "v": "-5.67%",
+   "cls": "down"
+  },
+  {
+   "k": "BITCOIN",
+   "v": "$58,952 · -4.90%",
+   "cls": "down"
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "12 · EXTREME FEAR",
+   "cls": "down"
+  }
+ ],
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG fell 0.92% to 5,146.33 — a third straight loss, though Jakarta held up noticeably better than New York on the day."
+   ]
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "It was a rout. The S&P 500 dropped 3.64% and the Nasdaq 100 crashed 5.67% in the week's worst session, while the Dow fell 1.98%. Gold lost 3.67%, confirming there was nowhere to hide."
+   ]
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin broke below $59,000, falling 4.90% to $58,952. Ether was hit harder, down 7.64% to $1,623. By Friday's close, Bitcoin had lost roughly 7% in three sessions."
+   ]
+  },
+  {
+   "h": "Signals",
+   "paras": [
+    "Breadth in the AVA v1.1 universe was 13%. Only two names carried long signals into the weekend: MMT, scored 77, and SENT, scored 60. Everything else was neutral at best."
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
