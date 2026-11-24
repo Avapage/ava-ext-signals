@@ -1,0 +1,53 @@
+{
+ "date": "2026-11-18",
+ "title": "Red Day Across Markets as Gold Slides and Bitcoin Retreats",
+ "lede": "Markets pulled back on Wednesday as investors cut risk across the board. Jakarta's benchmark fell more than 1%, gold lost over 3%, and Bitcoin slid toward $63,000, while market sentiment stayed pinned at extreme fear.",
+ "stats": [
+  {
+   "k": "IHSG",
+   "v": "5,247.88 · -1.07%",
+   "cls": "down"
+  },
+  {
+   "k": "S&P 500",
+   "v": "-0.31%",
+   "cls": "down"
+  },
+  {
+   "k": "NASDAQ 100",
+   "v": "+0.39%",
+   "cls": "up"
+  },
+  {
+   "k": "BITCOIN",
+   "v": "$63,068 · -2.89%",
+   "cls": "down"
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "11 · EXTREME FEAR",
+   "cls": "down"
+  }
+ ],
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG closed at 5,247.88, down 1.07% on the day. The decline set the tone for a week that would only get heavier, with the index giving back ground for the first of three straight sessions."
+   ]
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "US stocks were mixed but mostly lower. The Dow fell 1.10% and the S&P 500 eased 0.31%, while the Nasdaq 100 bucked the trend with a 0.39% gain. Gold was the day's standout loser, dropping 3.20% as even haven assets were sold."
+   ]
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin fell 2.89% to $63,068 and Ether dropped 2.61% to $1,777. The Fear & Greed index read 11 — extreme fear — a level it would hold, give or take a point, for the entire week."
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
