@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-21",
+ "title": "Crypto Bounces Into the Weekend While Stock Markets Rest",
+ "lede": "With equity markets closed for the weekend, crypto staged a modest recovery on Saturday. Bitcoin reclaimed $60,000 and Ether rose nearly 4%, though sentiment never left extreme fear.",
+ "stats": [
+  {
+   "k": "BITCOIN",
+   "v": "$60,216 · +2.14%",
+   "cls": "up"
+  },
+  {
+   "k": "ETHEREUM",
+   "v": "$1,686 · +3.85%",
+   "cls": "up"
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "12 · EXTREME FEAR",
+   "cls": "down"
+  },
+  {
+   "k": "EQUITIES",
+   "v": "WEEKEND · CLOSED",
+   "cls": ""
+  }
+ ],
+ "sections": [
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin rose 2.14% to $60,216, recovering part of Friday's rout, and Ether gained 3.85% to $1,686. The bounce was orderly but unconvincing: the Fear & Greed index stayed at 12, deep in extreme fear."
+   ]
+  },
+  {
+   "h": "Signals",
+   "paras": [
+    "The AVA v1.1 models did not chase it. Breadth was 0% — not one coin in the 15-coin universe scored positive. Even the least weak name, TRX at −42, carried a NO LONG SIGNAL, while ZEC, NEAR and DOGE all scored −90."
+   ]
+  },
+  {
+   "h": "Paper Engine",
+   "paras": [
+    "The terminal's paper engine had a rough Saturday: 10 trades closed for −$257.66, with only 3 winners. The damage came from the short book — a BNB short was liquidated for −$50.41, and PEPE and UNI shorts were stopped out for similar losses."
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
