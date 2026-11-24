@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-24T01:03:13.797Z",
+ "generated_utc": "2026-11-24T01:03:28.798Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤10x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-24",
@@ -50,8 +50,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤10x",
-   "equity": 534.12,
-   "return_pct": -46.59,
+   "equity": 534.18,
+   "return_pct": -46.58,
    "wallet": 533.87,
    "realized_pnl": -531.03,
    "fees_paid": 36.61,
@@ -62,7 +62,7 @@
    "win_rate": 23.9,
    "margin_used": 16.72,
    "free": 517.15,
-   "upnl": 0.25
+   "upnl": 0.31
   },
   "positions": [
    {
@@ -83,16 +83,16 @@
     "sl": 0.0537,
     "tp": 0.06024,
     "liq": 0.05124659,
-    "mark": 0.05674,
+    "mark": 0.05677,
     "qty": 1846.0408030268263,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 5.36,
-    "dist_tp_pct": 6.17,
-    "notional": 104.74,
+    "dist_sl_pct": 5.41,
+    "dist_tp_pct": 6.11,
+    "notional": 104.8,
     "margin": 10.45,
-    "upnl": 0.21,
-    "return_pct": 2.01,
+    "upnl": 0.27,
+    "return_pct": 2.54,
     "stale": false
    },
    {
@@ -2039,8 +2039,8 @@
    },
    {
     "day": "2026-11-24",
-    "t": 1795482193797,
-    "equity": 534.12
+    "t": 1795482208798,
+    "equity": 534.17
    }
   ]
  }
