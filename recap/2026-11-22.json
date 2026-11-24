@@ -30,19 +30,6 @@
    "paras": [
     "Bitcoin added 1.75% to close the weekend at $61,271, and Ether rose 2.30% to $1,724. Two green days repaired some of Friday's damage, but prices remained well below the week's opening levels."
    ]
-  },
-  {
-   "h": "Signals",
-   "paras": [
-    "Breadth stayed at 0% for a second straight day. The models' message was unchanged: this was a bounce inside a downtrend, not a turn."
-   ]
-  },
-  {
-   "h": "Paper Engine",
-   "paras": [
-    "Another 15 trades closed for −$231.36, again mostly shorts — SUI and HYPE shorts were stopped out and an XRP short was liquidated.",
-    "By the end of the day, the desk parked the short lane entirely. An audit of 25 closed trades showed the derived shorts had lost $495.85 at a 22% win rate, while longs were roughly flat. Shorts stay parked until the lane is backtested on its own; position sizing was also reset so a single stop-out risks about 1.5% of equity."
-   ]
   }
  ],
  "generated_at": "2026-11-25T01:30:00+07:00"
