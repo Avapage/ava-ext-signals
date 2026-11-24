@@ -1,0 +1,80 @@
+{
+ "date": "2026-11-24",
+ "title": "Jakarta and the Dow Climb, but Tech and Gold Give Ground",
+ "lede": "Markets split on Tuesday. Jakarta extended Monday's recovery and the Dow rose again, but a fresh slide in chip stocks dragged the Nasdaq down 1.81%, gold fell 2%, and Bitcoin slipped back below $61,000.",
+ "stats": [
+  {
+   "k": "IHSG",
+   "v": "5,241.59 · +0.49%",
+   "cls": "up"
+  },
+  {
+   "k": "S&P 500",
+   "v": "-0.47%",
+   "cls": "down"
+  },
+  {
+   "k": "NASDAQ 100",
+   "v": "-1.81%",
+   "cls": "down"
+  },
+  {
+   "k": "BITCOIN",
+   "v": "$60,068 · -1.96%",
+   "cls": "down"
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "11 · EXTREME FEAR",
+   "cls": "down"
+  },
+  {
+   "k": "PAPER EQUITY",
+   "v": "$525.39",
+   "cls": "down"
+  }
+ ],
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG added 0.49% to close at 5,241.59 — a second straight gain that has now recovered most of last week's slide."
+   ]
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "The Dow rose 0.78%, but technology weighed on the broader market: the S&P 500 eased 0.47% and the Nasdaq 100 fell 1.81%. Wire reports pointed at chips — Anthropic shares tumbled below their $83 IPO price, Marvell slid, and Taiwan Semiconductor fell after Taipei shares hit their daily limit. Gold dropped 2.00%."
+   ]
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin fell 1.96% to $60,068 and Ether lost 1.52% to $1,685. The Fear & Greed index read 11 — extreme fear for a sixth straight day, a stretch that now covers the entire selloff and the rebound alike."
+   ]
+  },
+  {
+   "h": "Signals",
+   "paras": [
+    "Breadth in the AVA v1.1 universe stayed at 0%. The least weak coin, PROM at −5, still carried no long bias, while ENA (−80), ZEC (−72) and NEAR (−67) anchored the bottom. The models remain in capital-preservation mode."
+   ]
+  },
+  {
+   "h": "Paper Engine",
+   "paras": [
+    "A busy day in the paper book: 22 trades closed, only 4 of them winners, for −$39.28. Equity ended the day at $525.39, down from $541.09 at the open — the long-only book is grinding through a market its own signals keep calling uninvestable."
+   ]
+  },
+  {
+   "h": "On the Wire",
+   "paras": [],
+   "points": [
+    "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value — Reuters",
+    "Chip stocks slide at midday; Microsoft outage also in focus — TradingView",
+    "Taiwan Semiconductor stocks fall 2.78% after Taipei shares hit the 10% limit — TradingView",
+    "HPE plunges 16% despite an earnings beat as AI margin fears spark a selloff — Stocks Down Under"
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
