@@ -27,11 +27,6 @@
    "k": "FEAR & GREED",
    "v": "11 · EXTREME FEAR",
    "cls": "down"
-  },
-  {
-   "k": "PAPER EQUITY",
-   "v": "$525.39",
-   "cls": "down"
   }
  ],
  "sections": [
@@ -51,18 +46,6 @@
    "h": "Crypto",
    "paras": [
     "Bitcoin fell 1.96% to $60,068 and Ether lost 1.52% to $1,685. The Fear & Greed index read 11 — extreme fear for a sixth straight day, a stretch that now covers the entire selloff and the rebound alike."
-   ]
-  },
-  {
-   "h": "Signals",
-   "paras": [
-    "Breadth in the AVA v1.1 universe stayed at 0%. The least weak coin, PROM at −5, still carried no long bias, while ENA (−80), ZEC (−72) and NEAR (−67) anchored the bottom. The models remain in capital-preservation mode."
-   ]
-  },
-  {
-   "h": "Paper Engine",
-   "paras": [
-    "A busy day in the paper book: 22 trades closed, only 4 of them winners, for −$39.28. Equity ended the day at $525.39, down from $541.09 at the open — the long-only book is grinding through a market its own signals keep calling uninvestable."
    ]
   },
   {
