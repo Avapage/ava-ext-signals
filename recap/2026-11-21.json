@@ -30,18 +30,6 @@
    "paras": [
     "Bitcoin rose 2.14% to $60,216, recovering part of Friday's rout, and Ether gained 3.85% to $1,686. The bounce was orderly but unconvincing: the Fear & Greed index stayed at 12, deep in extreme fear."
    ]
-  },
-  {
-   "h": "Signals",
-   "paras": [
-    "The AVA v1.1 models did not chase it. Breadth was 0% — not one coin in the 15-coin universe scored positive. Even the least weak name, TRX at −42, carried a NO LONG SIGNAL, while ZEC, NEAR and DOGE all scored −90."
-   ]
-  },
-  {
-   "h": "Paper Engine",
-   "paras": [
-    "The terminal's paper engine had a rough Saturday: 10 trades closed for −$257.66, with only 3 winners. The damage came from the short book — a BNB short was liquidated for −$50.41, and PEPE and UNI shorts were stopped out for similar losses."
-   ]
   }
  ],
  "generated_at": "2026-11-25T01:30:00+07:00"
