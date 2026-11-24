@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-23",
+ "title": "Relief Rally: Nasdaq Soars 7% as Buyers Storm Back",
+ "lede": "After the worst week of the month, buyers returned in force on Monday. The Nasdaq 100 jumped 7%, the S&P 500 gained 4.71% and Jakarta rose 1.35% — a sharp reversal that still left sentiment gauges stuck at extreme fear.",
+ "stats": [
+  {
+   "k": "IHSG",
+   "v": "5,215.85 · +1.35%",
+   "cls": "up"
+  },
+  {
+   "k": "S&P 500",
+   "v": "+4.71%",
+   "cls": "up"
+  },
+  {
+   "k": "NASDAQ 100",
+   "v": "+7.00%",
+   "cls": "up"
+  },
+  {
+   "k": "BITCOIN",
+   "v": "$61,271 · 0.00%",
+   "cls": ""
+  },
+  {
+   "k": "FEAR & GREED",
+   "v": "11 · EXTREME FEAR",
+   "cls": "down"
+  }
+ ],
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG rose 1.35% to 5,215.85, its first gain of the week. Bank Indonesia raised its benchmark rate by 25 basis points to 6.00%, framing the move as strengthening stability while supporting growth."
+   ]
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "The rebound in New York was emphatic: the Nasdaq 100 soared 7.00%, the S&P 500 climbed 4.71% and the Dow added 3.06%. Gold joined in, up 3.14% — the mirror image of Friday's rout."
+   ]
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Crypto sat out the party. Bitcoin finished flat at $61,271 and Ether slipped 0.79% to $1,711, lagging equities badly on the year's biggest relief day."
+   ]
+  },
+  {
+   "h": "Signals",
+   "paras": [
+    "True to their design, the AVA v1.1 models refused to chase a one-day bounce: breadth remained 0% and no coin carried a long signal. One green day, the models say, is not a trend."
+   ]
+  },
+  {
+   "h": "Paper Engine",
+   "paras": [
+    "A quieter day for the paper book: 6 trades closed for −$11.07 with 2 winners. PROM whipsawed in both directions, banking +$10.16 on one long and giving most of it back on the next."
+   ]
+  }
+ ],
+ "generated_at": "2026-11-25T01:30:00+07:00"
+}
