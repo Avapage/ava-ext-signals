@@ -1,64 +1,71 @@
 {
  "date": "2026-11-24",
- "title": "Jakarta and the Dow Climb, but Tech and Gold Give Ground",
- "lede": "Markets split on Tuesday. Jakarta extended Monday's recovery and the Dow rose again, but a fresh slide in chip stocks dragged the Nasdaq down 1.81%, gold fell 2%, and Bitcoin slipped back below $61,000.",
- "stats": [
-  {
-   "k": "IHSG",
-   "v": "5,241.59 · +0.49%",
-   "cls": "up"
-  },
-  {
-   "k": "S&P 500",
-   "v": "-0.47%",
-   "cls": "down"
-  },
-  {
-   "k": "NASDAQ 100",
-   "v": "-1.81%",
-   "cls": "down"
-  },
-  {
-   "k": "BITCOIN",
-   "v": "$60,068 · -1.96%",
-   "cls": "down"
-  },
-  {
-   "k": "FEAR & GREED",
-   "v": "11 · EXTREME FEAR",
-   "cls": "down"
-  }
- ],
+ "generated_at": "2026-11-25T00:59:08Z",
+ "lede": "Tuesday was a risk-off day across global markets. The Nasdaq 100 fell nearly 2%, gold dropped more than 2% and Bitcoin slid below $60,000, pushing the Fear & Greed Index to 11 — deep in Extreme Fear territory. Jakarta and the Dow Jones were the exceptions, both closing modestly higher.",
  "sections": [
   {
    "h": "Jakarta",
    "paras": [
-    "The IHSG added 0.49% to close at 5,241.59 — a second straight gain that has now recovered most of last week's slide."
-   ]
+    "The IHSG went against the global tide, rising 0.49% to close at 5,241.59 while most major markets fell. Indonesian stocks held their ground on a day when risk appetite faded almost everywhere else.",
+    "Bank Indonesia was active on the day, publishing its November monetary policy review and the results of its floating-rate note (BI-FRN) auction held on 24 November."
+   ],
+   "points": []
   },
   {
    "h": "Wall Street",
    "paras": [
-    "The Dow rose 0.78%, but technology weighed on the broader market: the S&P 500 eased 0.47% and the Nasdaq 100 fell 1.81%. Wire reports pointed at chips — Anthropic shares tumbled below their $83 IPO price, Marvell slid, and Taiwan Semiconductor fell after Taipei shares hit their daily limit. Gold dropped 2.00%."
-   ]
+    "US stocks split. The Nasdaq 100 led the decline, down 1.99% to 638.10, and the S&P 500 slipped 0.49% to 718.78. The Dow Jones went the other way, gaining 0.79% to 499.74, as money rotated away from growth and into steadier names.",
+    "Geopolitics made the wire too: the US Treasury announced an operation disrupting Iran's global shadow banking networks, identifying nearly $15 billion in potential Iranian shadow banking activity."
+   ],
+   "points": []
   },
   {
    "h": "Crypto",
    "paras": [
-    "Bitcoin fell 1.96% to $60,068 and Ether lost 1.52% to $1,685. The Fear & Greed index read 11 — extreme fear for a sixth straight day, a stretch that now covers the entire selloff and the rebound alike."
-   ]
+    "Crypto followed the risk-off mood. Bitcoin fell 2.35% to $59,832, slipping under the $60,000 mark, while Ethereum dropped 1.79% to $1,680.11.",
+    "Sentiment matched the price action. The Crypto Fear & Greed Index read 11 — Extreme Fear — its lowest kind of reading, reflecting how quickly nerves have spread across the market."
+   ],
+   "points": []
   },
   {
    "h": "On the Wire",
    "paras": [],
    "points": [
-    "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value — Reuters",
-    "Chip stocks slide at midday; Microsoft outage also in focus — TradingView",
-    "Taiwan Semiconductor stocks fall 2.78% after Taipei shares hit the 10% limit — TradingView",
-    "HPE plunges 16% despite an earnings beat as AI margin fears spark a selloff — Stocks Down Under"
+    "Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks — U.S. Department of the Treasury",
+    "Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking — U.S. Department of the Treasury",
+    "Tinjauan Kebijakan Moneter November 2026 — Bank Indonesia",
+    "Hasil Lelang Bank Indonesia Floating Rate Note (BI-FRN) 24 November 2026 — Bank Indonesia",
+    "Resilience in an age of shocks: lessons from central and eastern Europe — European Central Bank"
    ]
   }
  ],
- "generated_at": "2026-11-25T01:30:00+07:00",
+ "stats": [
+  {
+   "cls": "up",
+   "k": "IHSG",
+   "v": "5,241.59  +0.49%"
+  },
+  {
+   "cls": "down",
+   "k": "S&P 500",
+   "v": "718.78  −0.49%"
+  },
+  {
+   "cls": "down",
+   "k": "NASDAQ 100",
+   "v": "638.10  −1.99%"
+  },
+  {
+   "cls": "down",
+   "k": "BITCOIN",
+   "v": "$59,832  −2.35%"
+  },
+  {
+   "cls": "down",
+   "k": "FEAR & GREED",
+   "v": "11 · Extreme Fear"
+  }
+ ],
+ "title": "Tech and Crypto Tumble as Fear Grips the Markets",
  "image": "https://raw.githubusercontent.com/Avapage/ava-ext-signals/main/recap/img/2026-11-24.jpg"
 }
