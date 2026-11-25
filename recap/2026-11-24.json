@@ -14,7 +14,7 @@
   {
    "h": "Wall Street",
    "paras": [
-    "US stocks split. The Nasdaq 100 led the decline, down 1.99% to 638.10, and the S&P 500 slipped 0.49% to 718.78. The Dow Jones went the other way, gaining 0.79% to 499.74, as money rotated away from growth and into steadier names.",
+    "US stocks split. The Nasdaq 100 led the decline, down 1.99%, and the S&P 500 slipped 0.49%. The Dow Jones went the other way, gaining 0.79%, as money rotated away from growth and into steadier names.",
     "Geopolitics made the wire too: the US Treasury announced an operation disrupting Iran's global shadow banking networks, identifying nearly $15 billion in potential Iranian shadow banking activity."
    ],
    "points": []
@@ -48,12 +48,12 @@
   {
    "cls": "down",
    "k": "S&P 500",
-   "v": "718.78  −0.49%"
+   "v": "−0.49%"
   },
   {
    "cls": "down",
    "k": "NASDAQ 100",
-   "v": "638.10  −1.99%"
+   "v": "−1.99%"
   },
   {
    "cls": "down",
