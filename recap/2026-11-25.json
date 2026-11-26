@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-26T00:59:05Z",
+ "lede": "Wednesday was another cautious day for markets. Jakarta fell 0.84%, US tech slipped again and the Fear & Greed Index stayed at 13 — deep in Extreme Fear. But Bitcoin bounced 1.05% to $60,458, reclaiming the $60,000 mark, and gold climbed as investors looked for shelter.",
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG fell 0.84% to close at 5,197.61, giving back Tuesday's gain and ending the day firmly lower.",
+    "Bank Indonesia was active on the day, publishing the results of its SukBI auction held on 25 November and the coupon rate for government bond series VR0082, which matures on 26 February 2027."
+   ],
+   "points": []
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "US stocks split again. The Nasdaq 100 fell 0.65% and the S&P 500 slipped 0.29%, while the Dow Jones edged up 0.31% — the only major index in the green.",
+    "The Federal Reserve's wire was busy: the Fed published the minutes of its discount rate meetings from 19 and 28 October, and a paper asking why global trade has stayed resilient despite high trade policy uncertainty. Vice Chair for Supervision Bowman also spoke on modernizing banking supervision, while the SEC announced its Investor Advisory Committee will hold a virtual meeting on 3 December."
+   ],
+   "points": []
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Crypto steadied after Tuesday's slide. Bitcoin rose 1.05% to $60,458, climbing back above $60,000, and Ethereum gained 0.75% to $1,692.65.",
+    "Sentiment did not follow the bounce. The Crypto Fear & Greed Index read 13 — Extreme Fear — showing that nerves are still running high even as prices found a footing."
+   ],
+   "points": []
+  },
+  {
+   "h": "On the Wire",
+   "paras": [],
+   "points": [
+    "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026 — Federal Reserve (.gov)",
+    "The Fed - Why Has Global Trade Remained Resilient Despite High Trade Policy Uncertainty? — Federal Reserve (.gov)",
+    "Speech by Vice Chair for Supervision Bowman on modernizing banking supervision: a shared agenda for the Americas — Federal Reserve (.gov)",
+    "Hasil Lelang SukBI 25 November 2026 — Bank Indonesia",
+    "Suku Bunga Obligasi Pemerintah RI Seri VR0082 Yang Akan Jatuh Waktu Tanggal 26 Februari 2027 — Bank Indonesia",
+    "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting — SEC.gov"
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "cls": "down",
+   "k": "IHSG",
+   "v": "5,197.61  −0.84%"
+  },
+  {
+   "cls": "down",
+   "k": "S&P 500",
+   "v": "−0.29%"
+  },
+  {
+   "cls": "down",
+   "k": "NASDAQ 100",
+   "v": "−0.65%"
+  },
+  {
+   "cls": "up",
+   "k": "BITCOIN",
+   "v": "$60,458  +1.05%"
+  },
+  {
+   "cls": "down",
+   "k": "FEAR & GREED",
+   "v": "13 · Extreme Fear"
+  }
+ ],
+ "title": "Stocks Slip as Fear Lingers — Bitcoin Reclaims $60,000",
+ "image": "https://raw.githubusercontent.com/Avapage/ava-ext-signals/main/recap/img/2026-11-25.jpg"
+}
