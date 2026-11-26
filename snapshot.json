@@ -1,59 +1,59 @@
 {
  "model": "CRYPTO MOMENTUM v1.0 \u2014 EXTERNAL \u00b7 FROZEN RULES",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-25T06:22:06.871839+00:00",
+ "generated_utc": "2026-11-26T00:12:51.736555+00:00",
  "rule_sha256": "67cb7e90c60c4d3a792c68158630c0c9214d6211b5bc84c35bf43e31f020f742",
  "latest": {
   "kind": "scheduled",
-  "cutoff_utc": "2026-11-25T00:00:00+00:00",
-  "observed_utc": "2026-11-25T01:33:03.899613+00:00",
+  "cutoff_utc": "2026-11-26T00:00:00+00:00",
+  "observed_utc": "2026-11-26T00:12:19.556122+00:00",
   "longs": [],
   "top": [
    {
-    "symbol": "TRXUSDT",
-    "score": 45.0,
+    "symbol": "LTCUSDT",
+    "score": 34.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "NEARUSDT",
+    "score": 34.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "BCHUSDT",
+    "score": 33.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "PUMPUSDT",
+    "score": 32.5,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
     "symbol": "LINKUSDT",
-    "score": 31.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "XRPUSDT",
-    "score": 23.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "PEPEUSDT",
-    "score": 23.0,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "SOLUSDT",
-    "score": 21.6,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "QNTUSDT",
-    "score": 21.5,
-    "votes": 0,
-    "signal": "NO LONG SIGNAL"
-   },
-   {
-    "symbol": "WLDUSDT",
-    "score": 20.0,
+    "score": 32.5,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    },
    {
     "symbol": "ADAUSDT",
-    "score": 19.5,
+    "score": 31.5,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "TIAUSDT",
+    "score": 28.0,
+    "votes": 0,
+    "signal": "NO LONG SIGNAL"
+   },
+   {
+    "symbol": "BTCUSDT",
+    "score": 27.9,
     "votes": 0,
     "signal": "NO LONG SIGNAL"
    }
@@ -61,7 +61,7 @@
   "pairs": 40
  },
  "forward": {
-  "scheduled_days": 5,
+  "scheduled_days": 6,
   "first_scheduled_cutoff": "2026-11-21T00:00:00+00:00",
   "pilots": 2,
   "failed_records": 2
@@ -74,9 +74,9 @@
   "positions": [],
   "closed": [],
   "closed_total": 0,
-  "fills": 5,
+  "fills": 6,
   "writeoffs": 0,
-  "mark_utc": "2026-11-25 04:00:00+00:00"
+  "mark_utc": "2026-11-26 00:00:00+00:00"
  },
  "backtest": {
   "period": "2022-01-01 \u2192 2026-11-01 \u00b7 POINT-IN-TIME TOP-40 \u00b7 NEXT-OPEN FILLS",
