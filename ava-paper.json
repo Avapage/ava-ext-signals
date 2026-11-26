@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-26T03:35:29.933Z",
+ "generated_utc": "2026-11-26T03:40:29.996Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤100x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-26",
@@ -106,8 +106,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 523.66,
-   "return_pct": -47.63,
+   "equity": 524.58,
+   "return_pct": -47.54,
    "wallet": 520.63,
    "realized_pnl": -543.95,
    "fees_paid": 37.43,
@@ -118,7 +118,7 @@
    "win_rate": 21.4,
    "margin_used": 15.92,
    "free": 504.71,
-   "upnl": 3.03
+   "upnl": 3.95
   },
   "positions": [
    {
@@ -139,16 +139,16 @@
     "sl": 0.000003319009070636078,
     "tp": 0.00000377,
     "liq": 0.00000315,
-    "mark": 0.00000355,
+    "mark": 0.00000357,
     "qty": 45699785.811864555,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 6.51,
-    "dist_tp_pct": 6.2,
-    "notional": 162.23,
+    "dist_sl_pct": 7.03,
+    "dist_tp_pct": 5.6,
+    "notional": 163.15,
     "margin": 15.92,
-    "upnl": 3.03,
-    "return_pct": 19.05,
+    "upnl": 3.95,
+    "return_pct": 24.8,
     "stale": false
    }
   ],
@@ -468,11 +468,6 @@
   ],
   "trades_total": 56,
   "equity_curve": [
-   {
-    "day": "2026-11-24",
-    "t": 1795520069484,
-    "equity": 523.86
-   },
    {
     "day": "2026-11-24",
     "t": 1795520219518,
@@ -1970,8 +1965,13 @@
    },
    {
     "day": "2026-11-26",
-    "t": 1795664114932,
-    "equity": 523.66
+    "t": 1795664144934,
+    "equity": 524.12
+   },
+   {
+    "day": "2026-11-26",
+    "t": 1795664429996,
+    "equity": 524.58
    }
   ]
  }
