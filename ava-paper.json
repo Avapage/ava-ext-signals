@@ -1,7 +1,7 @@
 {
  "model": "AVA v1.1 — PAPER ENGINE",
  "notice": "NOT FINANCIAL ADVICE",
- "generated_utc": "2026-11-27T01:10:33.456Z",
+ "generated_utc": "2026-11-27T01:15:33.518Z",
  "rules": "AUTO BOT · REALTIME · AVA v1.1 4H WINDOWS LONG-ONLY (SHORTS PARKED — UNVERIFIED IN LIVE AUDIT 2026-11-22) + EXT MODEL DAILY LONGS + 15M/1H MOMENTUM TRIGGERS · MARKET/LIMIT ENTRIES BY CONFIDENCE · FUND $1,000 · RISK 1.5% OF EQUITY PER TRADE, SCALED BY MARKET BREADTH · LEV AUTO ≤100x · ISOLATED MARGIN · SL→BE AT +1R · TP BANKS 50% · RUNNER TRAILS 1×ATR · FEES MAKER 0.02% / TAKER 0.05% · FUNDING EVERY 8H AT REAL SETTLED RATES · DISPLAY ONLY",
  "latest": {
   "day": "2026-11-27",
@@ -68,8 +68,8 @@
   "account": {
    "fund": 1000,
    "lev_label": "AUTO ≤100x",
-   "equity": 519.1,
-   "return_pct": -48.09,
+   "equity": 519.25,
+   "return_pct": -48.08,
    "wallet": 516.81,
    "realized_pnl": -547.09,
    "fees_paid": 38.68,
@@ -80,7 +80,7 @@
    "win_rate": 34.3,
    "margin_used": 30.93,
    "free": 485.88,
-   "upnl": 2.29
+   "upnl": 2.44
   },
   "positions": [
    {
@@ -101,16 +101,16 @@
     "sl": 0.1189,
     "tp": 0.181445,
     "liq": 0.11791528,
-    "mark": 0.13589,
+    "mark": 0.13626,
     "qty": 329.17733137531,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 12.5,
-    "dist_tp_pct": 33.52,
-    "notional": 44.73,
+    "dist_sl_pct": 12.74,
+    "dist_tp_pct": 33.16,
+    "notional": 44.85,
     "margin": 6.43,
-    "upnl": -0.29,
-    "return_pct": -4.5,
+    "upnl": -0.17,
+    "return_pct": -2.61,
     "stale": false
    },
    {
@@ -131,16 +131,16 @@
     "sl": 2.8514,
     "tp": 3.43296091,
     "liq": 2.86891357,
-    "mark": 3.086,
+    "mark": 3.085,
     "qty": 37.68172258967129,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 7.6,
-    "dist_tp_pct": 11.24,
-    "notional": 116.29,
+    "dist_sl_pct": 7.57,
+    "dist_tp_pct": 11.28,
+    "notional": 116.25,
     "margin": 7.17,
-    "upnl": 1.58,
-    "return_pct": 22.11,
+    "upnl": 1.55,
+    "return_pct": 21.58,
     "stale": false
    },
    {
@@ -161,16 +161,16 @@
     "sl": 58378.7565,
     "tp": 65722.03332791,
     "liq": 58507.05358653,
-    "mark": 60871.86,
+    "mark": 60874.75,
     "qty": 0.003374306862125161,
     "sl_tag": null,
     "banked": false,
     "dist_sl_pct": 4.1,
-    "dist_tp_pct": 7.97,
-    "notional": 205.4,
+    "dist_tp_pct": 7.96,
+    "notional": 205.41,
     "margin": 8.18,
-    "upnl": 0.82,
-    "return_pct": 10.01,
+    "upnl": 0.83,
+    "return_pct": 10.13,
     "stale": false
    },
    {
@@ -191,16 +191,16 @@
     "sl": 0.9068,
     "tp": 1.04063741,
     "liq": 0.90710896,
-    "mark": 0.9484,
+    "mark": 0.9486,
     "qty": 202.7355178913043,
     "sl_tag": null,
     "banked": false,
-    "dist_sl_pct": 4.39,
-    "dist_tp_pct": 9.73,
-    "notional": 192.27,
+    "dist_sl_pct": 4.41,
+    "dist_tp_pct": 9.7,
+    "notional": 192.31,
     "margin": 9.15,
-    "upnl": 0.18,
-    "return_pct": 2.02,
+    "upnl": 0.23,
+    "return_pct": 2.46,
     "stale": false
    }
   ],
@@ -520,16 +520,6 @@
   ],
   "trades_total": 70,
   "equity_curve": [
-   {
-    "day": "2026-11-26",
-    "t": 1795689950887,
-    "equity": 514.34
-   },
-   {
-    "day": "2026-11-26",
-    "t": 1795690100908,
-    "equity": 514.06
-   },
    {
     "day": "2026-11-26",
     "t": 1795690265934,
@@ -2022,8 +2012,18 @@
    },
    {
     "day": "2026-11-27",
-    "t": 1795741833456,
-    "equity": 519.11
+    "t": 1795741848456,
+    "equity": 519.17
+   },
+   {
+    "day": "2026-11-27",
+    "t": 1795741998491,
+    "equity": 519.26
+   },
+   {
+    "day": "2026-11-27",
+    "t": 1795742133518,
+    "equity": 519.24
    }
   ]
  }
