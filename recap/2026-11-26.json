@@ -31,12 +31,27 @@
    "h": "On the Wire",
    "paras": [],
    "points": [
-    "Meeting of 28-29 October 2026 — European Central Bank",
+    {
+     "t": "Meeting of 28-29 October 2026 — European Central Bank",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUF1QlpPcmVtMHRwTDAyVGxzbmhlVUF2WUFnbFdYbXJXZzFCRVJLakFMckNUY0NNLTRoZ2ZJWlA5N1lPV2F2U2RhTkpId2hiUWx4NG5fQktLeGJETjJ5dkY2TnFEcVlEcFItYjJTbzZhZXBXQk5HNWV2UWVjVFVHUU1LeG02bUlUM1E?oc=5"
+    },
     "Economic Activity, Prices, and Monetary Policy in Japan — Bank of Japan",
-    "National Summary — Federal Reserve",
-    "Hasil Lelang TD Sesi Pagi 26 November 2026 — Bank Indonesia",
-    "Monetary developments in the euro area: October 2026 — European Central Bank",
-    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans — Federal Reserve"
+    {
+     "t": "National Summary — Federal Reserve",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UbWR0QmdZSFBfcUp5cGw1T0E5Yk10ZVZicjc1dVhGNTd2RkhIQ1NfdmRhWGRnNl9iZlRHemZ6c3JvN3VPMUtQMHFTYTVGdzBzUndJYW5sXzBRUE5PUzZZZm1kU0dweXVzT1A3OGVxUTV3TmQzanVvZzZ5OE9qQQ?oc=5"
+    },
+    {
+     "t": "Hasil Lelang TD Sesi Pagi 26 November 2026 — Bank Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEN2Zl9OVGR5QmtDY2tvVVZKRHBkMHJvWWNyaHZkTklYVnppUEVsZ05HdjdCYkhTY0F2REN2ak5fb19QVnlLVDc0dkF6Skt3b0xJcllwZ01KMEFEZXpaRU4wTlpDd1RLUExEVm5PUmRhMkZySGhRYU9IR3BvaXVPX1NMa2dDNE5uMzhURmZLMFhTd2FvYkxwV3pZMWE0cmZVQnJXN1FfLWNXNG91bVRB?oc=5"
+    },
+    {
+     "t": "Monetary developments in the euro area: October 2026 — European Central Bank",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHlBVWxPNVE5VElQcHZhZDZaYjR4Rk02amhEdUwzMzVZOWw4eHQ0Z3FOZU9XeVQ1LVFENVF3SVBYZjVQZEQybGV6X2xLS09RbzRQUWZVSG9GSXNZckI4aWo2SjdIWnNCbXVMWmhmWTEzb1IzbWVPRlNQNFNpWldMcQ?oc=5"
+    },
+    {
+     "t": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans — Federal Reserve",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9scXR2OWVfczQ2X3BGVnhZVi1TMUNKOXNpQlVCMjRpVG9vLUw1QV9qRXRuSmZhNkRaVy1IX3VPSGJvbW5PRnNGYjZzSjlkdHhsUTFpWjlnQUFFaTJJR2xySXVtU3pKSGhnRFhMYkZ4bVVCXzU5WEI2QzBkd0VJX2M?oc=5"
+    }
    ]
   }
  ],
