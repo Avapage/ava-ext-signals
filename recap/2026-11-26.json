@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-27T01:00:00+07:00",
+ "lede": "Jakarta's IHSG rose 0.86% to 5,242.17 on Thursday, 26 November, while Wall Street stayed shut for Thanksgiving and crypto barely moved. Bitcoin held near $60,577, and the Fear & Greed Index sat at 11 — deep in extreme fear — as central banks filled the quiet day's news flow.",
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG gained 0.86% to close at 5,242.17, up from 5,197.61 the previous session, in a day when the world's biggest market was closed and Jakarta traded on its own cues.",
+    "Bank Indonesia published the results of its morning TD auction and its afternoon DNDF sell transactions, alongside the coupon rate for government bond series VR0040, which matures on 28 February 2027."
+   ],
+   "points": []
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "US markets were closed for Thanksgiving, so there were no closes for the S&P 500, the Nasdaq 100 or the Dow. The day's news came instead from central banks.",
+    "The European Central Bank published the account of its 28–29 October meeting and its October monetary developments for the euro area, and agreed with Sweden's Riksbank that Sweden will join the T2 payment system. The Bank of Japan published a speech on economic activity, prices and monetary policy, while the Federal Reserve released its National Summary of economic conditions and announced new dollar thresholds exempting smaller higher-priced mortgage loans from appraisal requirements."
+   ],
+   "points": []
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Bitcoin edged up 0.20% to $60,577.18, while Ethereum slipped 0.17% to $1,689.85. It was a quiet session for crypto, with neither coin straying far from the previous day's close.",
+    "Sentiment stayed fearful: the Fear & Greed Index read 11, firmly in extreme fear territory."
+   ],
+   "points": []
+  },
+  {
+   "h": "On the Wire",
+   "paras": [],
+   "points": [
+    "Meeting of 28-29 October 2026 — European Central Bank",
+    "Economic Activity, Prices, and Monetary Policy in Japan — Bank of Japan",
+    "National Summary — Federal Reserve",
+    "Hasil Lelang TD Sesi Pagi 26 November 2026 — Bank Indonesia",
+    "Monetary developments in the euro area: October 2026 — European Central Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans — Federal Reserve"
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "cls": "up",
+   "k": "IHSG",
+   "v": "5,242.17 (+0.86%)"
+  },
+  {
+   "cls": "flat",
+   "k": "US MARKETS",
+   "v": "Closed — Thanksgiving"
+  },
+  {
+   "cls": "up",
+   "k": "BITCOIN",
+   "v": "$60,577.18 (+0.20%)"
+  },
+  {
+   "cls": "down",
+   "k": "FEAR & GREED",
+   "v": "11 — Extreme Fear"
+  }
+ ],
+ "title": "Jakarta Climbs While Wall Street Sleeps",
+ "image": "https://raw.githubusercontent.com/Avapage/ava-ext-signals/main/recap/img/2026-11-26.jpg"
+}
