@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-28T01:00:00+07:00",
+ "lede": "Friday was a green day for stocks on both sides of the Pacific. Jakarta and Wall Street climbed together, gold rose more than 2%, and yet crypto went the other way — Bitcoin slipped below $60,000 while the Fear & Greed index stayed pinned at Extreme Fear.",
+ "sections": [
+  {
+   "h": "Jakarta",
+   "paras": [
+    "The IHSG rose 1.84% to 5,338.46, a strong end to the week for Indonesian stocks. Bank Indonesia held its 2026 annual meeting, themed around synergy toward a stronger and more resilient Indonesia, while the Financial Services Authority (OJK) published its second-period 2026 list of sharia securities and released the results of Bank Indonesia's SukBI auction held the same day.",
+    "In a separate move, OJK revoked the business licence of PT Bank Perekonomian Rakyat Bontang, a small rural bank, in a reminder that the regulator is still cleaning up the sector's weakest lenders."
+   ],
+   "points": []
+  },
+  {
+   "h": "Wall Street",
+   "paras": [
+    "US stocks rallied the day after Thanksgiving, with the Nasdaq 100 leading the way, up 2.69% to 650.99. The S&P 500 gained 1.62% to 728.32 and the Dow added 1.26% to 507.60. Gold joined the rally, climbing 2.12% to $334.40.",
+    "Across the Atlantic, the European Central Bank published the decisions of its Governing Council and the results of its October consumer expectations survey, which looks at what euro area consumers expect for AI, jobs and prices."
+   ],
+   "points": []
+  },
+  {
+   "h": "Crypto",
+   "paras": [
+    "Crypto did not join the rally. Bitcoin fell 1.08% to $59,923.10, slipping back below the $60,000 mark, and Ethereum dropped 1.62% to $1,662.48. The split left sentiment deeply fearful: the Fear & Greed index read 12, firmly in Extreme Fear, even as equity markets posted one of their best days of the week."
+   ],
+   "points": []
+  },
+  {
+   "h": "On the Wire",
+   "paras": [],
+   "points": [
+    {
+     "t": "Pertemuan Tahunan Bank Indonesia 2026: Sinergi Menuju Indonesia yang Lebih Kuat dan Berdaya Tahan — Bank Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXVDWmJKVC1GbnU0bVRvU2VPNTdRSVh4SWJEb2V1c0J2TzF5ZUpCc2lXQzBxYnFrMWxMWWdYLXJsS3pvWXhkQUd2elpPLUU4dGNEWXdMZzMtXzlBZkdjN0JWM2t0TXNWTzRpeTBrMFNiRmppZ1F1VTVzNlFYcFJNRHNMRVdUSlE?oc=5"
+    },
+    {
+     "t": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates) — European Central Bank",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEpCSGlIZUp4eXAzUnkwYnA2TnlUdEZ4aUFPZXp3S1R1NmRla3ZzelBvekNzek1OZm1vME1jOXI1LVh3MjhTdGRKMGxoLVdVa0lxaE9pTW5iVU9mekQxRVdDaFN2VFZ4TlV6N0JNbEpZcW1ySDY0LWRjdjhYVWVTQ2hrdzZlbldMNE13UDRweFpXZzNY?oc=5"
+    },
+    {
+     "t": "Penerbitan Keputusan Dewan Komisioner Otoritas Jasa Keuangan Tentang Daftar Efek Syariah Periode II 2026 — OJK",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONFRVczlTN00teWlpRmxYQWVqUGJyQkFfTXBjc3kzNkZRV0FBWUdfeWI0ZkRrRmVpT3NTc1ZXZk5mR0hhb19Wc3dqRDRMNDJWZ0hqdFhpbGZROTRSRDY1TDZmWE9fZVVjaVpIbWFXMVZmQ3ZCejc1Zks1eDlqcE1RRk9KSmxrVlgzamxvZnNmamhIODR6NzctLUhqSzh6bjNkaGpIQWJjU2FDTjRXZi0yOTc1R3NQdVZuUTFpbTA4OVNvRzlVN0Zpc2NQZWxoYy00cElMWEtNRVBCUjdZWUZiSlM3SmNpNE55RW1lenpkU3F1cHo3SWljRHd5bw?oc=5"
+    },
+    {
+     "t": "Hasil Lelang SukBI 27 November 2026 — Bank Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkVtU3lwTWk3YVQzeTduTkJzR3hQSk4xSC1WbU01Qnk5UHRtZmQxdFo2eG11NDNEeTRLOHkzZ3pxXzV1ZUQzanpxRVFBT1Q1dnh0Q3NyT1J4SXJKZXZsRmVaWVlCNFRqVHVEempENXllaC1sTXUwRVRwZlFyclFYRVB1M0M4YjF3ei02bGpMLXE3TnhNN3ZteGllZ3dtOVlrbG5ybXNB?oc=5"
+    },
+    {
+     "t": "AI, jobs and prices: what euro area consumers expect — European Central Bank",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU25TVUxEM2dsVUFURUtsOTk4Z1dCSmRUbHR0M2xDN2lFZWFtZkdITTdSaEEwSzlBNjFGaXJpcEVOcEltS3Ffc0dNUXhodFZLRFFvSGl0UzBhZl9WSk4yc3lfREFQTXA3Q1Z6RzFyWG5RaWl6bllRS1ZydGRPSzU4SVdIOTJfNnVuVEpUcEdrcnI?oc=5"
+    },
+    {
+     "t": "OJK Cabut Izin Usaha PT Bank Perekonomian Rakyat Bontang — OJK",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEJvOVV2cVFmRUpXYXNEcUJLcGVHZENMX0thZlZDNDJwYTBlMXlQbGZITG4yc29YSzdhMnJVVXBzbE50MGpkTjV0OGttbHJHcFJWeGNGVUw1NnJrNTl3d01nTG1PMDRIblhDUG5EQzRDZVRDSDh0UDB3bDV0cEVSNDZfTlJHekxkMU5YZlNkR1d1a19YWGtBbVY0X0JUSTdNMVNqTEpBbXp0Qm5hcHZwWUN1ejdfOU5MODg0?oc=5"
+    }
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "cls": "up",
+   "k": "IHSG",
+   "v": "5,338.46 (+1.84%)"
+  },
+  {
+   "cls": "up",
+   "k": "S&P 500",
+   "v": "728.32 (+1.62%)"
+  },
+  {
+   "cls": "up",
+   "k": "NASDAQ 100",
+   "v": "650.99 (+2.69%)"
+  },
+  {
+   "cls": "down",
+   "k": "BITCOIN",
+   "v": "$59,923.10 (-1.08%)"
+  },
+  {
+   "cls": "down",
+   "k": "FEAR & GREED",
+   "v": "12 — Extreme Fear"
+  }
+ ],
+ "title": "Stocks Rally on Both Sides of the Pacific While Bitcoin Slides",
+ "image": "https://raw.githubusercontent.com/Avapage/ava-ext-signals/main/recap/img/2026-11-27.jpg"
+}
